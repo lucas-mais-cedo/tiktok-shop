@@ -2,7 +2,21 @@
 
 Pedido do usuário em 14/10/2026: daqui em diante, até o fim das campanhas semanais, responder as DMs de quem tem interesse nos produtos divulgados, com uma saudação curta, amigável e personalizada (nunca repetir texto) e o **link de afiliado da semana**. Se mandar o link for contra as regras, indicar o Linktree da loja.
 
-Quem executa: a sessão do PC (navegador logado na @asadelta.shop). A nuvem manda a política e os ciclos; **o usuário confirma na sessão do PC** (é mensagem enviada em nome dele). A proteção de segurança do PC pode bloquear o envio: nesse caso, não contornar; avisar o usuário.
+Quem executa: a sessão do PC (navegador logado na @asadelta.shop). A nuvem manda a política e os ciclos. Em 14/10, na sessão do PC, o usuário aprovou "Pode enviar direto": as respostas dentro desta política não pedem ok a cada vez. A proteção de segurança do PC pode bloquear o envio: nesse caso, não contornar; avisar o usuário.
+
+## Ciclos (a cada 2 horas)
+
+Pedido do usuário em 14/10: "Cheque e responda as DMs 1 vez a cada 2 horas, começando por agora".
+
+- **Quando:** o agendamento "Atendimento de DMs a cada 2 h (PC)" dispara às 07:26, 09:26, 11:26, 13:26, 15:26, 17:26, 19:26, 21:26 e 23:26 de Brasília, até 21/10. De madrugada não há ciclo: o PC pode estar desligado, e responder a noite toda parece robô. Quem escreve à noite recebe resposta às 07:26.
+- **Como:** a cada horário, a nuvem manda à sessão do PC um pedido curto. A sessão do PC olha:
+  - Mensagens, incluindo "Solicitações de mensagem" (de quem não segue a conta);
+  - comentários novos dos vídeos.
+- **Comentários:** quando são dúvidas sobre o produto, recebem resposta de 1 frase, **sem link**: o link vai só por DM. Spam é ocultado e reclamação vai para o usuário. Política completa em `conta-e-bio.md`.
+- **Prioridade:** publicar o post do horário vem antes do ciclo.
+- **Retorno:** a sessão do PC manda à sessão da nuvem "Social Media" (SendMessage) uma linha só com contagens: `Ciclo DM HH:MM — DMs novas X · respondidas X · plano B usado X · pendentes X · encaminhadas ao usuário X · comentários novos X · respondidos X · ocultados X · avisos do TikTok: sim/não`.
+- **Parar:** se aparecer aviso de atividade incomum ou de limite, os ciclos param até o usuário decidir.
+- **Mensagens não exibidas no navegador:** algumas o TikTok web não mostra ("Baixe o app"). Elas são só contadas, e o usuário confere pelo celular.
 
 ## Qual link mandar
 

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-14T15:20-03:00",
+  "atualizado_em": "2026-10-14T15:30-03:00",
   "nota": "Estado da conta que muda o que os roteiros podem dizer. Atualize este arquivo quando algo mudar; o preparo diário dos posts lê daqui.",
   "tipo_conta": "pessoal",
   "seguidores": 1,
@@ -14,10 +14,12 @@
   "regra_cta": "bio_link_ativo=false: chamada = seguir/salvar/comentar (sem 'link'). bio_link_ativo=true: chamada = seguir + 'link na bio' (tabela em references/roteiro-e-legenda.md).",
   "videos_publicados": 1,
   "bio_texto": "Os melhores achados do TikTok Shop vem voando até você! 🚀",
-  "linktree": "linktr.ee/asadelta.shop (existência e link clicável na bio: a conferir pela sessão do PC)",
-  "link_afiliado_semana_01": "existe (enviado pelo usuário no chat em 14/10); fica fora do git enquanto o repositório for público",
+  "linktree": "linktr.ee/asadelta.shop existe (conferido 14/10 15:24): 1 botão 'Kit Halteres Ajustáveis 6 em 1…' que leva ao link de afiliado da semana. A bio ainda não tem link clicável.",
+  "link_afiliado_semana_01": "existe (enviado pelo usuário no chat em 14/10); leva ao Kit 6 em 1 da ART CADEIRAS, pdp 1737041809079633642 (conferido 14/10 15:23). Fica fora do git enquanto o repositório for público.",
   "comissao_ativa": true,
   "regra_publi": "comissao_ativa=true: #publi na legenda e divulgação de conteúdo de marca ligada no TikTok",
   "quem_gera_video": "chat local 'Editor de Videos' (local_2759ef03-23ce-4b7e-8e94-823793ce9de3), via sessão do PC",
-  "atendimento_dm": "ativo desde 14/10 (references/atendimento-dm.md), depende do ok do usuário na sessão do PC"
+  "atendimento_dm": "ativo desde 14/10. O usuário aprovou 'Pode enviar direto' na sessão do PC. Ciclo a cada 2 h, das 07:26 às 23:26 de Brasília, até 21/10 (agendamento 'Atendimento de DMs a cada 2 h (PC)'). O resumo de cada ciclo chega por mensagem da sessão do PC à sessão da nuvem 'Social Media'.",
+  "comissao_confirmada_no_app": null,
+  "nota_comissao": "A sessão do PC achou que o link parece de compartilhamento comum (marca de WhatsApp). O usuário precisa confirmar na Central de Afiliados se ele gera comissão. Até lá, mantemos #publi e a frase de afiliado (divulgar a mais não prejudica)."
 }
