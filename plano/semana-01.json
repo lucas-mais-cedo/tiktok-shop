@@ -155,7 +155,7 @@
    "id": "P29",
    "dia": 1,
    "data": "2026-10-14",
-   "hora": "23:59",
+   "hora": "23:55",
    "angulo": "M. Pergunta noturna (treino de amanhã, sem preço)",
    "falas": [
     {
@@ -1619,7 +1619,7 @@
   "15:00",
   "18:00",
   "20:00",
-  "23:59"
+  "23:55"
  ],
- "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00. Em 14/10 o roteiro 'Sem tempo pra ir pra academia?' foi antecipado para 20:00 de hoje, e um post novo (segurança e detalhes) ocupou 15/10 às 10:00. IDs renumerados. 23:59 incluído pelo usuário em 14/10, valendo a partir de hoje. IDs ficam fixos (o PC já tem pastas P03 e P04); posts novos recebem o próximo número (P29). Os posts das 23:59 de 15 a 20/10 serão criados pelo preparo diário, com ângulos novos."
+ "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00. Em 14/10 o roteiro 'Sem tempo pra ir pra academia?' foi antecipado para 20:00 de hoje, e um post novo (segurança e detalhes) ocupou 15/10 às 10:00. IDs renumerados. 23:55 incluído pelo usuário em 14/10, valendo a partir de hoje. IDs ficam fixos (o PC já tem pastas P03 e P04); posts novos recebem o próximo número (P29). Os posts das 23:55 de 15 a 20/10 serão criados pelo preparo diário, com ângulos novos. Studio só aceita minutos de 5 em 5: o horário noturno é 23:55."
 }
