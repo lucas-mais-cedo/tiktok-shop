@@ -1,0 +1,56 @@
+{
+ "id": "P22",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Presente pra quem vive dizendo que segunda começa.",
+   "cena": "abertura"
+  },
+  {
+   "id": "02",
+   "texto": "Um conjunto seis em um pra treinar em casa.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "03",
+   "texto": "Halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "04",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "05",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "06",
+   "texto": "e apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "07",
+   "texto": "O peso é ajustável: começa leve, e aumenta com o tempo.",
+   "cena": "peso"
+  },
+  {
+   "id": "08",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "09",
+   "texto": "Marca essa pessoa aqui nos comentários.",
+   "cena": "fechamento"
+  }
+ ]
+}

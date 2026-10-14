@@ -1,0 +1,51 @@
+{
+ "id": "P25",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "texto": "Saiu do trabalho agora?",
+   "cena": "abertura",
+   "id": "01"
+  },
+  {
+   "texto": "O treino pode ser em casa, sem trânsito.",
+   "cena": "em_uso",
+   "id": "02"
+  },
+  {
+   "texto": "Esse kit é seis em um.",
+   "cena": "seis_em_um",
+   "id": "03"
+  },
+  {
+   "texto": "Halteres...",
+   "cena": "halteres",
+   "id": "04"
+  },
+  {
+   "texto": "barra...",
+   "cena": "barra",
+   "id": "05"
+  },
+  {
+   "texto": "e quétoubél.",
+   "cena": "kettlebell",
+   "texto_legivel": "e kettlebell.",
+   "id": "06"
+  },
+  {
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true,
+   "id": "07"
+  },
+  {
+   "texto": "Segue pra ver mais achados de treino em casa.",
+   "cena": "fechamento",
+   "id": "08"
+  }
+ ]
+}

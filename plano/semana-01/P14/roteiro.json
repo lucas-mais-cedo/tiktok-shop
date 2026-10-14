@@ -7,44 +7,50 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Olha tudo o que vem nessa caixa.",
-   "cena": "seis_em_um"
+   "texto": "Chegou cansado, e sem pique pra academia?",
+   "cena": "pratico"
   },
   {
    "id": "02",
-   "texto": "Oito anilhas: quatro de dois quilos, e quatro de um e meio.",
-   "cena": "peso"
-  },
-  {
-   "id": "03",
-   "texto": "Duas barras rosqueáveis, e uma barra extensora.",
-   "cena": "barra"
-  },
-  {
-   "id": "04",
-   "texto": "Base, e duas alças de quétoubél.",
-   "cena": "kettlebell",
-   "texto_legivel": "Base, e duas alças de kettlebell."
-  },
-  {
-   "id": "05",
-   "texto": "E quatro travas de segurança.",
-   "cena": "rosca"
-  },
-  {
-   "id": "06",
-   "texto": "Dá pra fazer supino, agachamento, e treino de braço.",
+   "texto": "Treino em casa resolve.",
    "cena": "em_uso"
   },
   {
+   "id": "03",
+   "texto": "Com esse seis em um, você muda de exercício sem sair da sala:",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
    "id": "07",
-   "texto": "Sai por cento e oitenta e quatro e noventa, com frete grátis.",
+   "texto": "Peso ajustável até quinze quilos.",
+   "cena": "peso",
+   "inverter": true
+  },
+  {
+   "id": "08",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "08",
-   "texto": "Salva esse vídeo, e segue pra mais achados.",
+   "id": "09",
+   "texto": "Salva pra não esquecer, e segue pra mais.",
    "cena": "fechamento"
   }
  ]

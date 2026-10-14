@@ -7,50 +7,44 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Chegou cansado, e sem pique pra academia?",
-   "cena": "pratico"
-  },
-  {
-   "id": "02",
-   "texto": "Treino em casa resolve.",
-   "cena": "em_uso"
-  },
-  {
-   "id": "03",
-   "texto": "Com esse seis em um, você muda de exercício sem sair da sala:",
+   "texto": "Você treinaria em casa com isso aqui?",
    "cena": "seis_em_um"
   },
   {
-   "id": "04",
-   "texto": "halteres...",
-   "cena": "halteres"
+   "id": "02",
+   "texto": "São oito anilhas: quatro de dois quilos, e quatro de um e meio.",
+   "cena": "peso"
   },
   {
-   "id": "05",
-   "texto": "barra...",
+   "id": "03",
+   "texto": "Duas barras rosqueáveis, e uma barra extensora.",
    "cena": "barra"
   },
   {
-   "id": "06",
-   "texto": "quétoubél...",
+   "id": "04",
+   "texto": "Base e alças de quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "Base e alças de kettlebell..."
+  },
+  {
+   "id": "05",
+   "texto": "que também viram apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "06",
+   "texto": "E as travas de segurança.",
+   "cena": "rosca"
   },
   {
    "id": "07",
-   "texto": "Peso ajustável até quinze quilos.",
-   "cena": "peso",
-   "inverter": true
-  },
-  {
-   "id": "08",
-   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "texto": "Tudo por cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "09",
-   "texto": "Salva pra não esquecer, e segue pra mais.",
+   "id": "08",
+   "texto": "Responde aqui nos comentários, e segue pra mais achados.",
    "cena": "fechamento"
   }
  ]

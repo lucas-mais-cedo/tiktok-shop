@@ -7,50 +7,48 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Esse aqui já passou de sete mil vendidos.",
-   "cena": "em_uso"
+   "texto": "Mora em apartamento pequeno?",
+   "cena": "abertura"
   },
   {
    "id": "02",
-   "texto": "É o conjunto seis em um pra treinar em casa.",
+   "texto": "Esse seis em um ocupa pouco espaço.",
    "cena": "seis_em_um"
   },
   {
    "id": "03",
-   "texto": "Halteres...",
+   "texto": "Monta como halteres...",
    "cena": "halteres"
   },
   {
    "id": "04",
-   "texto": "barra...",
+   "texto": "como barra...",
    "cena": "barra"
   },
   {
    "id": "05",
-   "texto": "quétoubél...",
+   "texto": "ou como quétoubél.",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "ou como kettlebell."
   },
   {
    "id": "06",
-   "texto": "e apoio de flexão.",
-   "cena": "flexao"
+   "texto": "As anilhas têm revestimento que protege o piso.",
+   "cena": "peso"
   },
   {
    "id": "07",
-   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
-   "cena": "abertura",
-   "inverter": true
+   "texto": "E as travas seguram tudo no lugar.",
+   "cena": "rosca"
   },
   {
    "id": "08",
-   "texto": "E sai por cento e oitenta e quatro reais e noventa, frete grátis.",
-   "cena": "preco",
-   "preco": true
+   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "cena": "em_uso"
   },
   {
    "id": "09",
-   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
+   "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
    "cena": "fechamento"
   }
  ]

@@ -100,6 +100,7 @@ EXIBIR = [
     ("cento e oitenta e quatro e noventa", "R$ 184,90"),
     ("duzentos reais", "R$ 200"),
     ("quatro vírgula seis", "4,6"),
+    ("quatro vírgula sete", "4,7"),
     ("quinze quilos", "15 kg"),
     ("dois quilos", "2 kg"),
     ("um e meio", "1,5 kg"),

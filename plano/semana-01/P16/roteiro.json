@@ -7,49 +7,44 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Menos de duzentos reais, e frete grátis.",
-   "cena": "abertura"
-  },
-  {
-   "id": "02",
-   "texto": "Por um conjunto seis em um completo.",
-   "cena": "seis_em_um"
-  },
-  {
-   "id": "03",
-   "texto": "Halteres...",
+   "texto": "Isso aqui é um par de halteres.",
    "cena": "halteres"
   },
   {
-   "id": "04",
-   "texto": "barra...",
+   "id": "02",
+   "texto": "Agora é uma barra.",
    "cena": "barra"
   },
   {
-   "id": "05",
-   "texto": "quétoubél...",
+   "id": "03",
+   "texto": "Agora, um quétoubél.",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "Agora, um kettlebell."
   },
   {
-   "id": "06",
-   "texto": "apoio pra flexão...",
+   "id": "04",
+   "texto": "E agora, apoio de flexão.",
    "cena": "flexao"
   },
   {
-   "id": "07",
-   "texto": "e trava de segurança.",
+   "id": "05",
+   "texto": "Tudo no mesmo conjunto: seis em um.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "06",
+   "texto": "Com trava de segurança em cada anilha.",
    "cena": "rosca"
   },
   {
-   "id": "08",
-   "texto": "Cento e oitenta e quatro reais e noventa.",
+   "id": "07",
+   "texto": "Cento e oitenta e quatro reais e noventa, e frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "09",
-   "texto": "Segue pra não perder os próximos achados.",
+   "id": "08",
+   "texto": "Segue pra mais achados!",
    "cena": "fechamento"
   }
  ]

@@ -6,41 +6,40 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "id": "01",
-   "texto": "Isso aqui é um quétoubél.",
+   "texto": "Se fosse treinar hoje em casa, você começaria por qual?",
+   "cena": "seis_em_um",
+   "id": "01"
+  },
+  {
+   "texto": "Halteres...",
+   "cena": "halteres",
+   "id": "02"
+  },
+  {
+   "texto": "barra...",
+   "cena": "barra",
+   "id": "03"
+  },
+  {
+   "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "Isso aqui é um kettlebell."
+   "texto_legivel": "kettlebell...",
+   "id": "04"
   },
   {
-   "id": "02",
-   "texto": "Rosqueia diferente, e vira um par de halteres.",
-   "cena": "halteres"
+   "texto": "ou flexão com apoio?",
+   "cena": "flexao",
+   "id": "05"
   },
   {
-   "id": "03",
-   "texto": "Junta tudo, e vira barra.",
-   "cena": "barra"
+   "texto": "Tudo isso sai de um kit só, com peso até quinze quilos.",
+   "cena": "peso",
+   "id": "06"
   },
   {
-   "id": "04",
-   "texto": "As alças viram apoio de flexão.",
-   "cena": "flexao"
-  },
-  {
-   "id": "05",
-   "texto": "Seis em um, com peso ajustável até quinze quilos.",
-   "cena": "seis_em_um"
-  },
-  {
-   "id": "06",
-   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
-   "cena": "preco",
-   "preco": true
-  },
-  {
-   "id": "07",
-   "texto": "Segue pra mais achados!",
-   "cena": "fechamento"
+   "texto": "Comenta aí qual seria o primeiro, e segue pra mais achados.",
+   "cena": "fechamento",
+   "id": "07"
   }
  ]
 }

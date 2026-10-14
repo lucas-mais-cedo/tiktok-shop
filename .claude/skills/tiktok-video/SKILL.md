@@ -1,6 +1,6 @@
 ---
 name: tiktok-video
-description: TikTok-Video. Gestão de social media da conta @asadelta.shop no TikTok Shop Brasil, do roteiro à análise. Use para criar vídeos de venda (narração pt-BR + fotos do anúncio, com legenda na tela), escrever legenda e hashtags, montar e seguir o calendário de postagens (10h, 15h e 20h de Brasília), preparar o pacote de publicação e fazer o relatório diário de alcance, retenção e conversão. Foco atual - Kit 6 em 1 da loja ART CADEIRAS.
+description: TikTok-Video. Gestão de social media da conta @asadelta.shop no TikTok Shop Brasil, do roteiro à análise. Use para criar vídeos de venda (narração pt-BR + fotos do anúncio, com legenda na tela), escrever legenda e hashtags, montar e seguir o calendário de postagens (10h, 15h, 18h e 20h de Brasília), preparar o pacote de publicação e fazer o relatório diário de alcance, retenção e conversão. Foco atual - Kit 6 em 1 da loja ART CADEIRAS.
 ---
 
 # TikTok-Video
@@ -54,7 +54,7 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 
 ## Ritmo da semana 1 (14/10 a 21/10/2026)
 
-- 3 posts por dia: **10:00, 15:00 e 20:00 (horário de Brasília, UTC-3)**. Os horários podem mudar com base nos dados (regras em `references/relatorio.md`).
+- 4 posts por dia: **10:00, 15:00, 18:00 e 20:00 (horário de Brasília, UTC-3)**. O de 18:00 foi incluído pelo usuário em 14/10 e vale a partir de 15/10. Os horários podem mudar com base nos dados (regras em `references/relatorio.md`).
 - **Relatório diário** no fim de cada dia (23:20 de Brasília): alcance, retenção e conversão por post e por horário, decisão do dia seguinte.
 - Variar ângulo, gancho e ordem das cenas a cada post: 3 vídeos por dia do mesmo produto, com a mesma voz e as mesmas fotos, viram "conteúdo repetido" se o começo for igual.
 

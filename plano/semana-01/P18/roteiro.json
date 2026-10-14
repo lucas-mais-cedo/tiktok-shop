@@ -7,44 +7,44 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
-   "cena": "em_uso"
-  },
-  {
-   "id": "02",
-   "texto": "É o seis em um com mais de sete mil vendidos.",
+   "texto": "Olha tudo o que vem nessa caixa.",
    "cena": "seis_em_um"
   },
   {
-   "id": "03",
-   "texto": "Vira halteres...",
-   "cena": "halteres"
+   "id": "02",
+   "texto": "Oito anilhas: quatro de dois quilos, e quatro de um e meio.",
+   "cena": "peso"
   },
   {
-   "id": "04",
-   "texto": "barra...",
+   "id": "03",
+   "texto": "Duas barras rosqueáveis, e uma barra extensora.",
    "cena": "barra"
   },
   {
-   "id": "05",
-   "texto": "quétoubél...",
+   "id": "04",
+   "texto": "Base, e duas alças de quétoubél.",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "Base, e duas alças de kettlebell."
+  },
+  {
+   "id": "05",
+   "texto": "E quatro travas de segurança.",
+   "cena": "rosca"
   },
   {
    "id": "06",
-   "texto": "e apoio de flexão.",
-   "cena": "flexao"
+   "texto": "Dá pra fazer supino, agachamento, e treino de braço.",
+   "cena": "em_uso"
   },
   {
    "id": "07",
-   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+   "texto": "Sai por cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
    "id": "08",
-   "texto": "Salva pra não esquecer, e segue pra mais achados.",
+   "texto": "Salva esse vídeo, e segue pra mais achados.",
    "cena": "fechamento"
   }
  ]

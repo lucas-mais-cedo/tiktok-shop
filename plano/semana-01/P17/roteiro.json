@@ -6,51 +6,51 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "id": "01",
-   "texto": "Presente pra quem vive dizendo que segunda começa.",
-   "cena": "abertura"
+   "texto": "Treino em casa, sem mensalidade e sem fila.",
+   "cena": "abertura",
+   "id": "01"
   },
   {
-   "id": "02",
-   "texto": "Um conjunto seis em um pra treinar em casa.",
-   "cena": "seis_em_um"
+   "texto": "Um kit só, seis em um.",
+   "cena": "seis_em_um",
+   "id": "02"
   },
   {
-   "id": "03",
    "texto": "Halteres...",
-   "cena": "halteres"
+   "cena": "halteres",
+   "id": "03"
   },
   {
-   "id": "04",
    "texto": "barra...",
-   "cena": "barra"
+   "cena": "barra",
+   "id": "04"
   },
   {
-   "id": "05",
    "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "kettlebell...",
+   "id": "05"
   },
   {
-   "id": "06",
-   "texto": "e apoio de flexão.",
-   "cena": "flexao"
+   "texto": "e apoio pra flexão.",
+   "cena": "flexao",
+   "id": "06"
   },
   {
-   "id": "07",
-   "texto": "O peso é ajustável: começa leve, e aumenta com o tempo.",
-   "cena": "peso"
+   "texto": "Peso ajustável até quinze quilos.",
+   "cena": "peso",
+   "id": "07"
   },
   {
-   "id": "08",
-   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
    "cena": "preco",
-   "preco": true
+   "preco": true,
+   "id": "08"
   },
   {
-   "id": "09",
-   "texto": "Marca essa pessoa aqui nos comentários.",
-   "cena": "fechamento"
+   "texto": "Comenta qual você usaria primeiro, e segue pra mais achados.",
+   "cena": "fechamento",
+   "id": "09"
   }
  ]
 }

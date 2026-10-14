@@ -28,7 +28,7 @@ A API oficial de postagem do TikTok (Content Posting API) exige app de desenvolv
 - [ ] **Conteúdo gerado por IA**: ligado (voz sintética).
 - [ ] Capa: um quadro do produto inteiro (ex.: cena `abertura` ou `seis_em_um`), sem texto.
 - [ ] **Som**: trilha **em alta** do TikTok (pedido do usuário), som adicionado em ~10 a 15% e original em 100%; ouvir a prévia e garantir que a narração está clara. Se o TikTok só oferecer a Biblioteca de Música Comercial (acontece em post com produto/conteúdo de marca), escolher a mais em alta de lá.
-- [ ] Horário: 10:00, 15:00 ou 20:00 de Brasília (ou o novo horário do último relatório).
+- [ ] Horário: 10:00, 15:00, 18:00 ou 20:00 de Brasília (ou o novo horário do último relatório).
 - [ ] Depois de publicar: anotar o link do vídeo em `metricas/posts.csv`.
 
 ## Requisitos da conta (confirmar no app)

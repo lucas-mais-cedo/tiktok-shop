@@ -7,48 +7,54 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Mora em apartamento pequeno?",
-   "cena": "abertura"
-  },
-  {
-   "id": "02",
-   "texto": "Esse seis em um ocupa pouco espaço.",
-   "cena": "seis_em_um"
-  },
-  {
-   "id": "03",
-   "texto": "Monta como halteres...",
-   "cena": "halteres"
-  },
-  {
-   "id": "04",
-   "texto": "como barra...",
-   "cena": "barra"
-  },
-  {
-   "id": "05",
-   "texto": "ou como quétoubél.",
-   "cena": "kettlebell",
-   "texto_legivel": "ou como kettlebell."
-  },
-  {
-   "id": "06",
-   "texto": "As anilhas têm revestimento que protege o piso.",
-   "cena": "peso"
-  },
-  {
-   "id": "07",
-   "texto": "E as travas seguram tudo no lugar.",
-   "cena": "rosca"
-  },
-  {
-   "id": "08",
-   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "texto": "Pagando academia e não indo?",
    "cena": "em_uso"
   },
   {
+   "id": "02",
+   "texto": "Que tal trazer a academia pra casa?",
+   "cena": "abertura"
+  },
+  {
+   "id": "03",
+   "texto": "Esse conjunto é seis em um.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "Halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "07",
+   "texto": "e apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "08",
+   "texto": "Sem mensalidade, sem fila de aparelho, no seu horário.",
+   "cena": "pratico"
+  },
+  {
    "id": "09",
-   "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
+   "texto": "Cento e oitenta e quatro reais e noventa, uma vez só.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "10",
+   "texto": "Salva pra lembrar, e segue pra mais achados.",
    "cena": "fechamento"
   }
  ]

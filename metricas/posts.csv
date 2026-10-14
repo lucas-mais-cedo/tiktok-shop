@@ -3,20 +3,26 @@ P01,2026-10-14,15:00,I. Conteúdo do kit (vídeo do fork),Esse jogo é pra quem 
 P02,2026-10-14,20:00,A. Preço + frete grátis,"Academia em casa por menos de duzentos reais, e com frete grátis?",,,,,planejado
 P03,2026-10-15,10:00,B. Rotina corrida,Sem tempo pra ir pra academia?,,,,,planejado
 P04,2026-10-15,15:00,E. Pergunta (puxa comentário),"Halter, barra ou kettlebell: qual você usaria primeiro?",,,,,planejado
-P05,2026-10-15,20:00,D. Transformação,"Um conjunto só, seis jeitos de treinar.",,,,,planejado
-P06,2026-10-16,10:00,A. Preço (variação),Quanto custa montar uma academia em casa?,,,,,planejado
-P07,2026-10-16,15:00,C. Sem mensalidade,Pagando academia e não indo?,,,,,planejado
-P08,2026-10-16,20:00,G. Pouco espaço,Mora em apartamento pequeno?,,,,,planejado
-P09,2026-10-17,10:00,E. Pergunta (variação),Você treinaria em casa com isso aqui?,,,,,planejado
-P10,2026-10-17,15:00,H. Prova social,Esse aqui já passou de sete mil vendidos.,,,,,planejado
-P11,2026-10-17,20:00,B. Rotina corrida (variação),"Chegou cansado, e sem pique pra academia?",,,,,planejado
-P12,2026-10-18,10:00,F. Iniciante,"Quer começar a treinar em casa, mas não sabe que peso comprar?",,,,,planejado
-P13,2026-10-18,15:00,D. Transformação (variação),Isso aqui é um par de halteres.,,,,,planejado
-P14,2026-10-18,20:00,I. Conteúdo do kit (nova versão),Olha tudo o que vem nessa caixa.,,,,,planejado
-P15,2026-10-19,10:00,C. Sem mensalidade (variação),"Academia em casa, sem mensalidade.",,,,,planejado
-P16,2026-10-19,15:00,A. Preço (variação 2),"Menos de duzentos reais, e frete grátis.",,,,,planejado
-P17,2026-10-19,20:00,J. Presente,Presente pra quem vive dizendo que segunda começa.,,,,,planejado
-P18,2026-10-20,10:00,H. Prova social (variação),"Nota quatro vírgula seis, com mais de mil avaliações.",,,,,planejado
-P19,2026-10-20,15:00,G. Pouco espaço (variação),Não tem espaço pra montar academia?,,,,,planejado
-P20,2026-10-20,20:00,F. Iniciante (variação),Primeira vez treinando em casa?,,,,,planejado
-P21,2026-10-21,10:00,Melhor ângulo da semana (definido no relatório de 20/10),Isso aqui é um kettlebell.,,,,,planejado
+P05,2026-10-15,18:00,H. Prova social (pergunta),Por que esse kit já vendeu mais de sete mil?,,,,,planejado
+P06,2026-10-15,20:00,D. Transformação,"Um conjunto só, seis jeitos de treinar.",,,,,planejado
+P07,2026-10-16,10:00,A. Preço (variação),Quanto custa montar uma academia em casa?,,,,,planejado
+P08,2026-10-16,15:00,C. Sem mensalidade,Pagando academia e não indo?,,,,,planejado
+P09,2026-10-16,18:00,F. Iniciante (variação 2),Nunca treinou com peso?,,,,,planejado
+P10,2026-10-16,20:00,G. Pouco espaço,Mora em apartamento pequeno?,,,,,planejado
+P11,2026-10-17,10:00,E. Pergunta (variação),Você treinaria em casa com isso aqui?,,,,,planejado
+P12,2026-10-17,15:00,H. Prova social,Esse aqui já passou de sete mil vendidos.,,,,,planejado
+P13,2026-10-17,18:00,"G. Pouco espaço (variação 2, sem preço)",Não precisa de um quarto inteiro pra treinar.,,,,,planejado
+P14,2026-10-17,20:00,B. Rotina corrida (variação),"Chegou cansado, e sem pique pra academia?",,,,,planejado
+P15,2026-10-18,10:00,F. Iniciante,"Quer começar a treinar em casa, mas não sabe que peso comprar?",,,,,planejado
+P16,2026-10-18,15:00,D. Transformação (variação),Isso aqui é um par de halteres.,,,,,planejado
+P17,2026-10-18,18:00,C. Sem mensalidade (variação 2),"Treino em casa, sem mensalidade e sem fila.",,,,,planejado
+P18,2026-10-18,20:00,I. Conteúdo do kit (nova versão),Olha tudo o que vem nessa caixa.,,,,,planejado
+P19,2026-10-19,10:00,C. Sem mensalidade (variação),"Academia em casa, sem mensalidade.",,,,,planejado
+P20,2026-10-19,15:00,A. Preço (variação 2),"Menos de duzentos reais, e frete grátis.",,,,,planejado
+P21,2026-10-19,18:00,"E. Pergunta (variação 2, sem preço)","Se fosse treinar hoje em casa, você começaria por qual?",,,,,planejado
+P22,2026-10-19,20:00,J. Presente,Presente pra quem vive dizendo que segunda começa.,,,,,planejado
+P23,2026-10-20,10:00,H. Prova social (variação),"Nota quatro vírgula seis, com mais de mil avaliações.",,,,,planejado
+P24,2026-10-20,15:00,G. Pouco espaço (variação),Não tem espaço pra montar academia?,,,,,planejado
+P25,2026-10-20,18:00,B. Rotina corrida (variação 2),Saiu do trabalho agora?,,,,,planejado
+P26,2026-10-20,20:00,F. Iniciante (variação),Primeira vez treinando em casa?,,,,,planejado
+P27,2026-10-21,10:00,Melhor ângulo da semana (definido no relatório de 20/10),Isso aqui é um kettlebell.,,,,,planejado

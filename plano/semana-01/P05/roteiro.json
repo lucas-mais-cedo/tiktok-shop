@@ -6,52 +6,51 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "id": "01",
-   "texto": "Um conjunto só, seis jeitos de treinar.",
-   "cena": "seis_em_um"
+   "texto": "Por que esse kit já vendeu mais de sete mil?",
+   "cena": "em_uso",
+   "id": "01"
   },
   {
-   "id": "02",
-   "texto": "Par de halteres...",
-   "cena": "halteres"
+   "texto": "Porque é seis em um.",
+   "cena": "seis_em_um",
+   "id": "02"
   },
   {
-   "id": "03",
+   "texto": "Vira halteres...",
+   "cena": "halteres",
+   "id": "03"
+  },
+  {
    "texto": "barra...",
-   "cena": "barra"
+   "cena": "barra",
+   "id": "04"
   },
   {
-   "id": "04",
    "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "kettlebell...",
+   "id": "05"
   },
   {
-   "id": "05",
-   "texto": "apoio de flexão...",
-   "cena": "flexao"
+   "texto": "e apoio pra flexão.",
+   "cena": "flexao",
+   "id": "06"
   },
   {
-   "id": "06",
-   "texto": "e o peso você ajusta, até quinze quilos.",
+   "texto": "O peso é ajustável até quinze quilos.",
    "cena": "peso",
-   "inverter": true
+   "id": "07"
   },
   {
-   "id": "07",
-   "texto": "Supino, agachamento, treino de braço, ombro e costas.",
-   "cena": "em_uso"
-  },
-  {
-   "id": "08",
-   "texto": "Sai por cento e oitenta e quatro reais e noventa, com frete grátis.",
+   "texto": "E sai por cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
-   "preco": true
+   "preco": true,
+   "id": "08"
   },
   {
-   "id": "09",
-   "texto": "Segue pra não perder os próximos achados.",
-   "cena": "fechamento"
+   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
+   "cena": "fechamento",
+   "id": "09"
   }
  ]
 }

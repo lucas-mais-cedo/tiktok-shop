@@ -7,12 +7,12 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Não tem espaço pra montar academia?",
+   "texto": "Academia em casa, sem mensalidade.",
    "cena": "pratico"
   },
   {
    "id": "02",
-   "texto": "Esse seis em um ocupa pouco espaço.",
+   "texto": "É esse conjunto seis em um.",
    "cena": "seis_em_um"
   },
   {
@@ -33,23 +33,28 @@
   },
   {
    "id": "06",
-   "texto": "e apoio de flexão, tudo no mesmo conjunto.",
+   "texto": "e apoio pra flexão.",
    "cena": "flexao"
   },
   {
    "id": "07",
-   "texto": "E o revestimento das anilhas protege o piso.",
+   "texto": "Peso ajustável até quinze quilos.",
    "cena": "peso"
   },
   {
    "id": "08",
-   "texto": "Cento e oitenta e quatro reais e noventa, com frete grátis.",
+   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "09",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "09",
-   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
+   "id": "10",
+   "texto": "Segue o perfil pra ver mais achados.",
    "cena": "fechamento"
   }
  ]

@@ -1,0 +1,46 @@
+{
+ "id": "P26",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Primeira vez treinando em casa?",
+   "cena": "halteres"
+  },
+  {
+   "id": "02",
+   "texto": "Começa com pouco peso, e vai aumentando.",
+   "cena": "peso"
+  },
+  {
+   "id": "03",
+   "texto": "É só rosquear mais anilhas, e travar.",
+   "cena": "rosca"
+  },
+  {
+   "id": "04",
+   "texto": "E o mesmo conjunto vira barra, quétoubél, e apoio de flexão.",
+   "cena": "seis_em_um",
+   "texto_legivel": "E o mesmo conjunto vira barra, kettlebell, e apoio de flexão."
+  },
+  {
+   "id": "05",
+   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "06",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "07",
+   "texto": "Segue pra ver mais achados de treino em casa.",
+   "cena": "fechamento"
+  }
+ ]
+}

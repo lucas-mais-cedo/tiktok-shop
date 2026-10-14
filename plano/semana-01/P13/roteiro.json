@@ -6,46 +6,45 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "id": "01",
-   "texto": "Isso aqui é um par de halteres.",
-   "cena": "halteres"
+   "texto": "Não precisa de um quarto inteiro pra treinar.",
+   "cena": "pratico",
+   "id": "01"
   },
   {
-   "id": "02",
-   "texto": "Agora é uma barra.",
-   "cena": "barra"
+   "texto": "Esse conjunto seis em um ocupa pouco espaço.",
+   "cena": "seis_em_um",
+   "id": "02"
   },
   {
-   "id": "03",
-   "texto": "Agora, um quétoubél.",
+   "texto": "E vira halteres...",
+   "cena": "halteres",
+   "id": "03"
+  },
+  {
+   "texto": "barra...",
+   "cena": "barra",
+   "id": "04"
+  },
+  {
+   "texto": "ou quétoubél.",
    "cena": "kettlebell",
-   "texto_legivel": "Agora, um kettlebell."
+   "texto_legivel": "ou kettlebell.",
+   "id": "05"
   },
   {
-   "id": "04",
-   "texto": "E agora, apoio de flexão.",
-   "cena": "flexao"
+   "texto": "As anilhas têm revestimento que protege o piso.",
+   "cena": "peso",
+   "id": "06"
   },
   {
-   "id": "05",
-   "texto": "Tudo no mesmo conjunto: seis em um.",
-   "cena": "seis_em_um"
+   "texto": "Mais de sete mil vendidos.",
+   "cena": "em_uso",
+   "id": "07"
   },
   {
-   "id": "06",
-   "texto": "Com trava de segurança em cada anilha.",
-   "cena": "rosca"
-  },
-  {
-   "id": "07",
-   "texto": "Cento e oitenta e quatro reais e noventa, e frete grátis.",
-   "cena": "preco",
-   "preco": true
-  },
-  {
-   "id": "08",
-   "texto": "Segue pra mais achados!",
-   "cena": "fechamento"
+   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
+   "cena": "fechamento",
+   "id": "08"
   }
  ]
 }
