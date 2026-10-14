@@ -8,8 +8,9 @@ Opções:
   --saida <pasta>        onde salvar (padrão: <pasta do roteiro>/saida)
   --preview              para depois da linha do tempo e gera só a folha de prévia (rápido)
   --pular-asr            não roda a conferência de pronúncia (Whisper)
+  --sem-legenda          não queima a legenda na tela (padrão: com legenda)
 
-Saídas na pasta de saída: <id>_so-voz.mp4 (principal), <id>_com-musica.mp4, folha.png (1 quadro por segundo).
+Saídas na pasta de saída: <id>_so-voz.mp4 (principal, com legenda na tela), <id>_com-musica.mp4, folha.png (1 quadro por segundo).
 """
 import argparse
 import math
@@ -42,6 +43,7 @@ def main():
     ap.add_argument("--saida")
     ap.add_argument("--preview", action="store_true")
     ap.add_argument("--pular-asr", action="store_true")
+    ap.add_argument("--sem-legenda", action="store_true")
     a = ap.parse_args()
 
     import json
@@ -63,6 +65,10 @@ def main():
     run(os.path.join(AQUI, "build_audio.py"), tl, falas, audio)
     mudo = os.path.join(out, "video_sem_audio.mp4")
     run(os.path.join(AQUI, "render.py"), tl, a.fotos, mudo)
+    if not a.sem_legenda:  # vídeo narrado sempre com legenda na tela
+        legendado = os.path.join(out, "video_legendado.mp4")
+        run(os.path.join(AQUI, "legendas.py"), "roteiro", a.roteiro, tl, falas, mudo, legendado)
+        mudo = legendado
     final = os.path.join(out, f"{pid}_so-voz.mp4")
     run(os.path.join(AQUI, "mux.py"), mudo, os.path.join(audio, "mix_so_voz.wav"), final)
     run(os.path.join(AQUI, "mux.py"), mudo, os.path.join(audio, "mix_com_musica.wav"), os.path.join(out, f"{pid}_com-musica.mp4"))

@@ -94,6 +94,43 @@ def escreve_ass(cues, path):
         f.writelines(linhas)
 
 
+# frase falada -> como aparece na legenda (números em algarismos). A mais longa primeiro.
+EXIBIR = [
+    ("cento e oitenta e quatro reais e noventa", "R$ 184,90"),
+    ("cento e oitenta e quatro e noventa", "R$ 184,90"),
+    ("duzentos reais", "R$ 200"),
+    ("quatro vírgula seis", "4,6"),
+    ("quinze quilos", "15 kg"),
+    ("dois quilos", "2 kg"),
+    ("um e meio", "1,5 kg"),
+    ("seis em um", "6 em 1"),
+    ("seis jeitos", "6 jeitos"),
+    ("sete mil", "7 mil"),
+    ("oito", "8"), ("quatro", "4"), ("duas", "2"),
+]
+
+
+def tokens(texto):
+    """Palavras para exibir + peso (tamanho do que é falado), trocando números por algarismos."""
+    ws, out, i = texto.split(), [], 0
+    while i < len(ws):
+        for falado, exibe in EXIBIR:
+            n = len(falado.split())
+            cand = ws[i:i + n]
+            if len(cand) == n and [norm(x) for x in cand] == [norm(x) for x in falado.split()]:
+                pont = re.search(r"[,.:;?!…]+$", cand[-1])
+                txt = exibe + (pont.group(0) if pont else "")
+                if cand[0][0].isupper() and txt[0].isalpha():
+                    txt = txt[0].upper() + txt[1:]
+                out.append((txt, len(" ".join(cand))))
+                i += n
+                break
+        else:
+            out.append((ws[i], len(ws[i])))
+            i += 1
+    return out
+
+
 def cues_roteiro(rot_path, tl_path, falas_dir):
     with open(rot_path, encoding="utf-8") as f:
         falas = {x["id"]: x for x in json.load(f)["falas"]}
@@ -102,10 +139,16 @@ def cues_roteiro(rot_path, tl_path, falas_dir):
     cues = []
     for v in voz:
         fala = falas[v["id"]]
-        texto = fala.get("legenda") or fala.get("texto_legivel") or fala["texto"]
         d = dur(os.path.join(falas_dir, v["id"] + ".wav")) - v.get("corte", 0)
-        grupos = blocos(texto.split())
-        pesos = [len(" ".join(g)) + 2 for g in grupos]
+        if fala.get("legenda"):  # texto de legenda escrito à mão no roteiro
+            toks = [(w, len(w)) for w in fala["legenda"].split()]
+        else:
+            toks = tokens(fala.get("texto_legivel") or fala["texto"])
+        grupos = blocos([w for w, _ in toks])
+        pesos, k = [], 0
+        for g in grupos:
+            pesos.append(sum(p for _, p in toks[k:k + len(g)]) + 2)
+            k += len(g)
         t = v["t"]
         for g, p in zip(grupos, pesos):
             seg = d * p / sum(pesos)
