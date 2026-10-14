@@ -60,7 +60,7 @@ Nunca escrever "link na bio" antes de o link estar ativo e testado (abrir o perf
 ### O que a IA nunca faz
 - Alterar senha, e-mail, telefone, verificação em duas etapas, dados de pagamento ou documentos.
 - Comprar, pagar, sacar, apagar a conta ou vídeos já publicados sem pedido explícito.
-- Seguir, curtir ou comentar **em massa**, mandar mensagem direta para desconhecidos, usar bot de engajamento, comprar seguidores.
+- Seguir, curtir ou comentar **em massa**, **iniciar** conversa por DM (responder quem escreveu primeiro é permitido: ver `atendimento-dm.md`), usar bot de engajamento, comprar seguidores.
 - Inventar experiência pessoal ("eu usei e amei", "já comprei"), fingir ser a loja vendedora, prometer prazo, estoque ou desconto que o anúncio não mostra.
 
 ### Ritmo humano (proteção da conta)

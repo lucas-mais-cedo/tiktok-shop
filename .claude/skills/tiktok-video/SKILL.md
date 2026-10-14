@@ -13,6 +13,7 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 - **Fase 1 (até 1.000 seguidores):** o objetivo nº 1 é **ganhar seguidores**; vender é bônus. Sem CNPJ/MEI, a venda acontece pelo **link de afiliado (Linkshare) na bio** do perfil, direto ou por Linktree com o nome de cada produto. Detalhes, pré-requisitos e o teste do campo "Site": `references/conta-e-bio.md`. O estado atual está em `plano/estado.json`.
 - **Chamada final (CTA):** com `bio_link_ativo: false` = seguir/salvar/comentar; com `bio_link_ativo: true` = seguir + "link na bio". **Nunca** falar ou escrever "carrinho laranja" na fase 1, nem "link na bio" antes de o link estar ativo e testado.
 - Caminho de afiliação: com menos de 1.000 seguidores, só o **Linkshare** (link de comissão para divulgar fora do TikTok, se aparecer no app e após a verificação de identidade). A partir de 1.000 seguidores (algumas contas veem 2.000), pedir o cadastro de criador afiliado no TikTok Studio. Novos afiliados entram num piloto de 30 dias com até 10 vídeos com produto por dia. Ao liberar: afiliar-se ao Kit 6 em 1 da ART CADEIRAS (e a outros produtos lucrativos) e voltar a chamada para o carrinho.
+- **Quem gera o vídeo (desde 14/10, pedido do usuário):** o chat local **"Editor de Videos"** no PC (`local_2759ef03-23ce-4b7e-8e94-823793ce9de3`). A nuvem não alcança sessões locais: o pedido vai pela sessão do PC, que repassa ao Editor e devolve o pacote (arquivo, duração, LUFS, transcrição, texto do post). A nuvem confere e só então manda agendar. Os dados de performance voltam ao Editor depois de cada relatório.
 - **Quem publica:** a sessão Claude no PC do usuário ("Vídeo promocional TikTok Shop fitness", `session_017q2VWPpsvQbTUxJa5Th6hg`), pelo TikTok Studio no navegador integrado. A sessão na nuvem manda os pacotes por `send_message` (ver `references/publicacao.md`).
 
 ## Antes de tudo
@@ -65,3 +66,4 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 - `references/publicacao.md`: checklist de publicação e agendamento.
 - `references/relatorio.md`: como coletar as métricas, modelo do relatório e regras para mudar horários.
 - `references/conta-e-bio.md`: estratégia do link na bio, afiliação, acesso à conta, política de comentários e limites.
+- `references/atendimento-dm.md`: resposta às DMs de interessados (link de afiliado da semana, plano B Linktree, transparência, limites).

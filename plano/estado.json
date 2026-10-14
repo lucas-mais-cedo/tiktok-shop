@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-10-14",
+  "atualizado_em": "2026-10-14T15:20-03:00",
   "nota": "Estado da conta que muda o que os roteiros podem dizer. Atualize este arquivo quando algo mudar; o preparo diário dos posts lê daqui.",
   "tipo_conta": "pessoal",
-  "seguidores": 0,
+  "seguidores": 1,
   "meta_seguidores": 1000,
   "campo_site_na_bio_disponivel": null,
   "bio_link_ativo": false,
@@ -11,5 +11,13 @@
   "linkshare_disponivel_no_app": null,
   "produto_elegivel_linkshare": null,
   "permissao_produto_nos_videos": false,
-  "regra_cta": "bio_link_ativo=false: chamada = seguir/salvar/comentar (sem 'link'). bio_link_ativo=true: chamada = seguir + 'link na bio' (tabela em references/roteiro-e-legenda.md)."
+  "regra_cta": "bio_link_ativo=false: chamada = seguir/salvar/comentar (sem 'link'). bio_link_ativo=true: chamada = seguir + 'link na bio' (tabela em references/roteiro-e-legenda.md).",
+  "videos_publicados": 1,
+  "bio_texto": "Os melhores achados do TikTok Shop vem voando até você! 🚀",
+  "linktree": "linktr.ee/asadelta.shop (existência e link clicável na bio: a conferir pela sessão do PC)",
+  "link_afiliado_semana_01": "existe (enviado pelo usuário no chat em 14/10); fica fora do git enquanto o repositório for público",
+  "comissao_ativa": true,
+  "regra_publi": "comissao_ativa=true: #publi na legenda e divulgação de conteúdo de marca ligada no TikTok",
+  "quem_gera_video": "chat local 'Editor de Videos' (local_2759ef03-23ce-4b7e-8e94-823793ce9de3), via sessão do PC",
+  "atendimento_dm": "ativo desde 14/10 (references/atendimento-dm.md), depende do ok do usuário na sessão do PC"
 }

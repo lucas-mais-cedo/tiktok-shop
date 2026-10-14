@@ -6,7 +6,7 @@ Objetivo da semana 1: **aumentar o alcance da conta** e descobrir o melhor horá
 
 **Automático (nuvem, conector TokScript, dados públicos):**
 - `get_tiktok_user("asadelta.shop")`: seguidores, curtidas totais, nº de vídeos.
-- `get_tiktok_user_videos(username="asadelta.shop", count=30)`: por vídeo, visualizações, curtidas, comentários, compartilhamentos, salvamentos e data.
+- `get_tiktok_user_videos` **exige plano pago do TokScript** (testado em 14/10): não usar. Os números por vídeo vêm do TikTok Studio, lidos pela sessão do PC às 22:40 (agendamento "Coleta de métricas no TikTok Studio (PC)").
 - Gravar uma linha por vídeo em `metricas/snapshots.csv` com a idade do vídeo em horas (agora − hora de publicação).
 
 **Do TikTok Studio / Seller Center (só o usuário ou a sessão do PC conseguem ver):**
