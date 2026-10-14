@@ -369,7 +369,7 @@
    "id": "P07",
    "dia": 2,
    "data": "2026-10-15",
-   "hora": "20:00",
+   "hora": "21:30",
    "angulo": "D. Transformação",
    "falas": [
     {
@@ -602,7 +602,7 @@
    "id": "P11",
    "dia": 3,
    "data": "2026-10-16",
-   "hora": "20:00",
+   "hora": "21:30",
    "angulo": "G. Pouco espaço",
    "falas": [
     {
@@ -827,7 +827,7 @@
    "id": "P15",
    "dia": 4,
    "data": "2026-10-17",
-   "hora": "20:00",
+   "hora": "21:30",
    "angulo": "B. Rotina corrida (variação)",
    "falas": [
     {
@@ -1057,7 +1057,7 @@
    "id": "P19",
    "dia": 5,
    "data": "2026-10-18",
-   "hora": "20:00",
+   "hora": "21:30",
    "angulo": "I. Conteúdo do kit (nova versão)",
    "provisorio": true,
    "falas": [
@@ -1286,7 +1286,7 @@
    "id": "P23",
    "dia": 6,
    "data": "2026-10-19",
-   "hora": "20:00",
+   "hora": "21:30",
    "angulo": "J. Presente",
    "provisorio": true,
    "falas": [
@@ -1516,7 +1516,7 @@
    "id": "P27",
    "dia": 7,
    "data": "2026-10-20",
-   "hora": "20:00",
+   "hora": "21:30",
    "angulo": "F. Iniciante (variação)",
    "provisorio": true,
    "falas": [
@@ -1619,7 +1619,8 @@
   "15:00",
   "18:00",
   "20:00",
+  "21:30",
   "23:55"
  ],
- "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00. Em 14/10 o roteiro 'Sem tempo pra ir pra academia?' foi antecipado para 20:00 de hoje, e um post novo (segurança e detalhes) ocupou 15/10 às 10:00. IDs renumerados. 23:55 incluído pelo usuário em 14/10, valendo a partir de hoje. IDs ficam fixos (o PC já tem pastas P03 e P04); posts novos recebem o próximo número (P29). Os posts das 23:55 de 15 a 20/10 serão criados pelo preparo diário, com ângulos novos. Studio só aceita minutos de 5 em 5: o horário noturno é 23:55."
+ "nota_horarios": "Grade a partir de 15/10 (pedido do usuário, repassado pela sessão do PC em 14/10): 4 posts por dia, às 10:00, 15:00, 18:00 e 21:30 (Brasília). O horário das 20:00 saiu da grade: os posts que estavam às 20:00 de 15 a 20/10 passam para as 21:30. O das 23:55 vai para as 21:30. Os de hoje, 14/10 (18:00 P02, 20:00 P03, 23:55 P29), e o P04 de 15/10 às 10:00 continuam como estão. Studio só aceita minutos de 5 em 5. IDs fixos (o PC já tem pastas P03 e P04); posts novos recebem o próximo número."
 }

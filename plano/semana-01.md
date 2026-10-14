@@ -15,27 +15,27 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 | P04 | qui 2 | 15/10 | 10:00 | L. Segurança e detalhes (novo) | Antes de comprar peso, olha esse detalhe. | roteiro pronto |
 | P05 | qui 2 | 15/10 | 15:00 | E. Pergunta (puxa comentário) | Halter, barra ou kettlebell: qual você usaria primeiro? | roteiro pronto |
 | P06 | qui 2 | 15/10 | 18:00 | H. Prova social (pergunta) | Por que esse kit já vendeu mais de sete mil? | roteiro pronto |
-| P07 | qui 2 | 15/10 | 20:00 | D. Transformação | Um conjunto só, seis jeitos de treinar. | roteiro pronto |
+| P07 | qui 2 | 15/10 | 21:30 | D. Transformação | Um conjunto só, seis jeitos de treinar. | roteiro pronto |
 | P08 | sex 3 | 16/10 | 10:00 | A. Preço (variação) | Quanto custa montar uma academia em casa? | roteiro pronto |
 | P09 | sex 3 | 16/10 | 15:00 | C. Sem mensalidade | Pagando academia e não indo? | roteiro pronto |
 | P10 | sex 3 | 16/10 | 18:00 | F. Iniciante (variação 2) | Nunca treinou com peso? | roteiro pronto |
-| P11 | sex 3 | 16/10 | 20:00 | G. Pouco espaço | Mora em apartamento pequeno? | roteiro pronto |
+| P11 | sex 3 | 16/10 | 21:30 | G. Pouco espaço | Mora em apartamento pequeno? | roteiro pronto |
 | P12 | sáb 4 | 17/10 | 10:00 | E. Pergunta (variação) | Você treinaria em casa com isso aqui? | roteiro pronto |
 | P13 | sáb 4 | 17/10 | 15:00 | H. Prova social | Esse aqui já passou de sete mil vendidos. | roteiro pronto |
 | P14 | sáb 4 | 17/10 | 18:00 | G. Pouco espaço (variação 2, sem preço) | Não precisa de um quarto inteiro pra treinar. | roteiro pronto |
-| P15 | sáb 4 | 17/10 | 20:00 | B. Rotina corrida (variação) | Chegou cansado, e sem pique pra academia? | roteiro pronto |
+| P15 | sáb 4 | 17/10 | 21:30 | B. Rotina corrida (variação) | Chegou cansado, e sem pique pra academia? | roteiro pronto |
 | P16 | dom 5 | 18/10 | 10:00 | F. Iniciante | Quer começar a treinar em casa, mas não sabe que peso comprar? | provisório |
 | P17 | dom 5 | 18/10 | 15:00 | D. Transformação (variação) | Isso aqui é um par de halteres. | provisório |
 | P18 | dom 5 | 18/10 | 18:00 | C. Sem mensalidade (variação 2) | Treino em casa, sem mensalidade e sem fila. | provisório |
-| P19 | dom 5 | 18/10 | 20:00 | I. Conteúdo do kit (nova versão) | Olha tudo o que vem nessa caixa. | provisório |
+| P19 | dom 5 | 18/10 | 21:30 | I. Conteúdo do kit (nova versão) | Olha tudo o que vem nessa caixa. | provisório |
 | P20 | seg 6 | 19/10 | 10:00 | C. Sem mensalidade (variação) | Academia em casa, sem mensalidade. | provisório |
 | P21 | seg 6 | 19/10 | 15:00 | A. Preço (variação 2) | Menos de duzentos reais, e frete grátis. | provisório |
 | P22 | seg 6 | 19/10 | 18:00 | E. Pergunta (variação 2, sem preço) | Se fosse treinar hoje em casa, você começaria por qual? | provisório |
-| P23 | seg 6 | 19/10 | 20:00 | J. Presente | Presente pra quem vive dizendo que segunda começa. | provisório |
+| P23 | seg 6 | 19/10 | 21:30 | J. Presente | Presente pra quem vive dizendo que segunda começa. | provisório |
 | P24 | ter 7 | 20/10 | 10:00 | H. Prova social (variação) | Nota quatro vírgula seis, com mais de mil avaliações. | provisório |
 | P25 | ter 7 | 20/10 | 15:00 | G. Pouco espaço (variação) | Não tem espaço pra montar academia? | provisório |
 | P26 | ter 7 | 20/10 | 18:00 | B. Rotina corrida (variação 2) | Saiu do trabalho agora? | provisório |
-| P27 | ter 7 | 20/10 | 20:00 | F. Iniciante (variação) | Primeira vez treinando em casa? | provisório |
+| P27 | ter 7 | 20/10 | 21:30 | F. Iniciante (variação) | Primeira vez treinando em casa? | provisório |
 | P28 | qua 8 | 21/10 | 10:00 | Melhor ângulo da semana (definido no relatório de 20/10) | Isso aqui é um kettlebell. | provisório |
 
 ## Posts
@@ -141,7 +141,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** em_uso
 
-### P07: 15/10 às 20:00 · D. Transformação
+### P07: 15/10 às 21:30 · D. Transformação
 
 **Narração:** Um conjunto só, seis jeitos de treinar. Par de halteres... barra... kettlebell... apoio de flexão... e o peso você ajusta, até quinze quilos. Supino, agachamento, treino de braço, ombro e costas. Sai por cento e oitenta e quatro reais e noventa, com frete grátis. Segue pra não perder os próximos achados.
 
@@ -201,7 +201,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** abertura
 
-### P11: 16/10 às 20:00 · G. Pouco espaço
+### P11: 16/10 às 21:30 · G. Pouco espaço
 
 **Narração:** Mora em apartamento pequeno? Esse seis em um ocupa pouco espaço. Monta como halteres... como barra... ou como kettlebell. As travas seguram as anilhas no lugar. E as travas seguram tudo no lugar. Mais de sete mil vendidos, nota quatro vírgula seis. Salva esse vídeo, e segue pra mais achados de treino em casa.
 
@@ -261,7 +261,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** pratico
 
-### P15: 17/10 às 20:00 · B. Rotina corrida (variação)
+### P15: 17/10 às 21:30 · B. Rotina corrida (variação)
 
 **Narração:** Chegou cansado, e sem pique pra academia? Treino em casa resolve. Com esse seis em um, você muda de exercício sem sair da sala: halteres... barra... kettlebell... Peso ajustável até quinze quilos. Cento e oitenta e quatro e noventa, com frete grátis. Salva pra não esquecer, e segue pra mais.
 
@@ -321,7 +321,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** abertura
 
-### P19: 18/10 às 20:00 · I. Conteúdo do kit (nova versão)
+### P19: 18/10 às 21:30 · I. Conteúdo do kit (nova versão)
 
 **Narração:** Olha tudo o que vem nessa caixa. Oito anilhas: quatro de dois quilos, e quatro de um e meio. Duas barras rosqueáveis, e uma barra extensora. Base, e duas alças de kettlebell. E quatro travas de segurança. Dá pra fazer supino, agachamento, e treino de braço. Sai por cento e oitenta e quatro e noventa, com frete grátis. Salva esse vídeo, e segue pra mais achados.
 
@@ -381,7 +381,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** seis_em_um
 
-### P23: 19/10 às 20:00 · J. Presente
+### P23: 19/10 às 21:30 · J. Presente
 
 **Narração:** Presente pra quem vive dizendo que segunda começa. Um conjunto seis em um pra treinar em casa. Halteres... barra... kettlebell... e apoio de flexão. O peso é ajustável: começa leve, e aumenta com o tempo. Cento e oitenta e quatro e noventa, com frete grátis. Marca essa pessoa aqui nos comentários.
 
@@ -441,7 +441,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** abertura
 
-### P27: 20/10 às 20:00 · F. Iniciante (variação)
+### P27: 20/10 às 21:30 · F. Iniciante (variação)
 
 **Narração:** Primeira vez treinando em casa? Começa com pouco peso, e vai aumentando. É só colocar mais anilhas, e travar. E o mesmo conjunto vira barra, kettlebell, e apoio de flexão. Mais de sete mil vendidos, nota quatro vírgula seis. Cento e oitenta e quatro e noventa, com frete grátis. Segue pra ver mais achados de treino em casa.
 
