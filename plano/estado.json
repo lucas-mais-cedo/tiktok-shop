@@ -1,0 +1,15 @@
+{
+  "atualizado_em": "2026-10-14",
+  "nota": "Estado da conta que muda o que os roteiros podem dizer. Atualize este arquivo quando algo mudar; o preparo diário dos posts lê daqui.",
+  "tipo_conta": "pessoal",
+  "seguidores": 0,
+  "meta_seguidores": 1000,
+  "campo_site_na_bio_disponivel": null,
+  "bio_link_ativo": false,
+  "bio_link_tipo": "nenhum",
+  "pkyc_concluida": null,
+  "linkshare_disponivel_no_app": null,
+  "produto_elegivel_linkshare": null,
+  "permissao_produto_nos_videos": false,
+  "regra_cta": "bio_link_ativo=false: chamada = seguir/salvar/comentar (sem 'link'). bio_link_ativo=true: chamada = seguir + 'link na bio' (tabela em references/roteiro-e-legenda.md)."
+}

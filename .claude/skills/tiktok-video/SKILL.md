@@ -10,13 +10,15 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 ## Situação da conta (atualizada em 14/10/2026)
 
 - @asadelta.shop é uma conta **afiliada iniciante**, sem relação com a loja oficial: **0 seguidores, sem permissão para ligar produto** (sem carrinho laranja).
-- **Fase 1 (até a conta poder ligar produto):** o objetivo é ganhar seguidores e alcance. A chamada final é seguir/salvar/comentar. **Nunca** falar ou escrever "carrinho laranja", "link na bio" ou "link aqui" enquanto o link não existir.
+- **Fase 1 (até 1.000 seguidores):** o objetivo nº 1 é **ganhar seguidores**; vender é bônus. Sem CNPJ/MEI, a venda acontece pelo **link de afiliado (Linkshare) na bio** do perfil, direto ou por Linktree com o nome de cada produto. Detalhes, pré-requisitos e o teste do campo "Site": `references/conta-e-bio.md`. O estado atual está em `plano/estado.json`.
+- **Chamada final (CTA):** com `bio_link_ativo: false` = seguir/salvar/comentar; com `bio_link_ativo: true` = seguir + "link na bio". **Nunca** falar ou escrever "carrinho laranja" na fase 1, nem "link na bio" antes de o link estar ativo e testado.
 - Caminho de afiliação: com menos de 1.000 seguidores, só o **Linkshare** (link de comissão para divulgar fora do TikTok, se aparecer no app e após a verificação de identidade). A partir de 1.000 seguidores (algumas contas veem 2.000), pedir o cadastro de criador afiliado no TikTok Studio. Novos afiliados entram num piloto de 30 dias com até 10 vídeos com produto por dia. Ao liberar: afiliar-se ao Kit 6 em 1 da ART CADEIRAS (e a outros produtos lucrativos) e voltar a chamada para o carrinho.
 - **Quem publica:** a sessão Claude no PC do usuário ("Vídeo promocional TikTok Shop fitness", `session_017q2VWPpsvQbTUxJa5Th6hg`), pelo TikTok Studio no navegador integrado. A sessão na nuvem manda os pacotes por `send_message` (ver `references/publicacao.md`).
 
 ## Antes de tudo
 
 - **Idioma:** responder sempre em português do Brasil, com linguagem simples. Antes de cada passo, um aviso de uma frase.
+- **Estado da conta:** `plano/estado.json` (seguidores, link na bio, PKYC). Atualizar sempre que mudar.
 - **Produto em foco:** `produtos/kit-6-em-1/produto.md` (link, preço do dia, o que pode e o que não pode falar).
 - **Calendário da semana:** `plano/semana-01.md`. Cada post tem roteiro, cenas, legenda e hashtags.
 - **Últimos números:** o relatório mais recente em `relatorios/` e o histórico em `metricas/posts.csv`.
@@ -33,6 +35,8 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 8. **Não reaproveitar vídeo de outro criador** (nem trechos). Fotos do anúncio só com autorização do usuário (já dada para o Kit 6 em 1).
 9. **Repositório:** não gravar senha, e-mail nem dados pessoais. Enquanto o repositório estiver público, pedidos, faturamento e comissão ficam só no relatório entregue no chat.
 10. **Vídeo narrado sempre com legenda na tela** (pedido do usuário em 14/10): `make_post.py` já queima a legenda; para vídeo pronto, usar `legendas.py audio`. Texto embutido nas fotos do anúncio continua proibido (recortar).
+12. **Acesso à conta:** sem senha (o usuário entra no navegador; a IA usa a sessão aberta). O que faz sozinha, o que pede "ok" e o que nunca faz (nada de ação em massa, mexer em senha/pagamento/documentos, inventar experiência pessoal) está em `references/conta-e-bio.md`. Respostas a comentários seguem a política desse arquivo.
+13. **Divulgação:** com link de afiliado na bio, `#publi` na legenda e a opção de divulgação de conteúdo do TikTok quando se aplicar.
 11. **Trilha em alta do TikTok** em todo post (pedido do usuário): escolhida no editor do TikTok na hora de publicar, com o som adicionado baixo (~10 a 15%) e o som original em 100%. A narração tem que continuar clara. Se o TikTok só oferecer a Biblioteca de Música Comercial, usar a mais em alta de lá.
 
 ## Fluxo de um post (checklist)
@@ -60,3 +64,4 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 - `references/roteiro-e-legenda.md`: fórmula de roteiro, banco de ganchos, regras de legenda e hashtags.
 - `references/publicacao.md`: checklist de publicação e agendamento.
 - `references/relatorio.md`: como coletar as métricas, modelo do relatório e regras para mudar horários.
+- `references/conta-e-bio.md`: estratégia do link na bio, afiliação, acesso à conta, política de comentários e limites.

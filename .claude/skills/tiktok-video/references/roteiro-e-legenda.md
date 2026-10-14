@@ -8,7 +8,7 @@
 | 2,5 a 9 s | **Demonstração** | o "seis em um" virando halter, barra, kettlebell, apoio de flexão (cenas em sequência rápida). |
 | 9 a 16 s | **Detalhe/prova** | peso ajustável, trava de segurança, não risca o piso, nota e vendidos (do dia). |
 | 16 a 22 s | **Preço/valor** | preço do dia + frete grátis (se verificado). Sem "só hoje". |
-| últimos 3 s | **Chamada** | **Fase 1 (sem carrinho):** "Segue o perfil pra ver mais achados de treino em casa", "Salva esse vídeo, e segue pra mais achados", "Comenta..., e segue pra ver mais". **Fase 2 (com produto ligado):** "Toca no carrinho laranja" e variações. |
+| últimos 3 s | **Chamada** | **Sem link ativo** (`bio_link_ativo: false`): "Segue o perfil pra ver mais achados de treino em casa", "Salva esse vídeo, e segue pra mais achados", "Comenta..., e segue pra ver mais". **Link na bio ativo** (`true`): "Segue, e o link tá na bio", "Segue pra mais achados, o link do kit tá na bio", "Salva, e clica no link da bio". **Fase 2 (produto ligado no vídeo, 1.000+):** "Toca no carrinho laranja". |
 
 Para variar entre posts do mesmo dia: mudar o gancho, a ordem de demonstração/prova, as cenas (`inverter`), e terminar às vezes sem falar preço.
 
