@@ -31,7 +31,7 @@ Dados perecíveis. Revalidar preço, frete, vendidos e nota **no dia** de cada p
 |---|---|
 | "seis em um": halteres, barra, kettlebell, apoio de flexão | prometer emagrecer, "secar", "ganhar X kg de músculo" |
 | peso ajustável até 15 kg | antes e depois corporal |
-| rosca/trava de segurança, não risca o piso | "últimas unidades", "só hoje", contagem regressiva inventada |
+| barras rosqueáveis e travas que fixam as anilhas (as TRAVAS rosqueiam, não as anilhas) | "últimas unidades", "só hoje", contagem regressiva inventada |
 | preço, frete grátis, vendidos e nota **do dia da verificação** | "substitui a academia" como fato |
 | "academia em casa sem mensalidade" (sem citar valor de mensalidade) | desconto que não aparece no anúncio |
 
@@ -65,3 +65,5 @@ As legendas A/B/C da 1ª versão estão em `legenda-e-hashtags-v1-larluxo.md`.
 - Vídeos que só copiam o título do anúncio: 1 a 9 curtidas.
 - Busca "kit 6 em 1": 12 vídeos, 3 marcados como "Parceria paga" (Letícia e Ryan, Dani e Nay).
 - Black Friday do TikTok Shop Brasil: 27/10 a 12/12 (imprensa). Hashtag oficial de 2026 ainda não encontrada; quando sair, entra no lugar de `#ViralTikTokShop`. `#TikTokShopBR1010` já passou: não usar.
+
+**Não falar (conferido pelo Editor em 14/10, 16:25):** "revestimento que protege o piso" e "não risca o piso" não aparecem no anúncio da ART CADEIRAS. Quem rosqueia na barra são as travas, não as anilhas.

@@ -67,29 +67,29 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P03: 14/10 às 20:00 · B. Rotina corrida
 
-**Narração:** Sem tempo pra ir pra academia? Treina em casa, no seu horário. Esse conjunto é seis em um: halteres... barra... kettlebell... e apoio pra flexão. As anilhas rosqueiam na barra, e o peso vai até quinze quilos. Cento e oitenta e quatro e noventa, com frete grátis. Salva esse vídeo, e segue pra mais achados.
+**Narração:** Sem tempo pra ir pra academia? Treina em casa, no seu horário. Esse conjunto é seis em um: halteres... barra... kettlebell... e apoio pra flexão. As travas rosqueiam na barra, e o peso vai até quinze quilos. Cento e oitenta e quatro e noventa, com frete grátis. Salva esse vídeo, e segue pra mais achados.
 
 **Cenas:** abertura → em_uso → seis_em_um → halteres → barra → kettlebell → flexao → peso → preco → fechamento
 
 **Arquivos:** `semana-01/P03/roteiro.json`, `semana-01/P03/legenda.txt`
 
 **Legenda:**
-> Sem tempo pra academia? Treina em casa no seu horário ⏰ Kit 6 em 1 com peso ajustável até 15 kg. Segue pra mais achados 🧡
+> Sem tempo pra academia? Treina em casa, no seu horário ⏰ Kit 6 em 1 com halter, barra, kettlebell e apoio de flexão, peso ajustável até 15 kg e frete grátis. Salva e segue pra mais achados 🧡
 
-`#treinoemcasa #academiaemcasa #kitdetreino #tiktokshop #achadinhos` (+ `#publi` se a conta for afiliada)
+`#treinoemcasa #academiaemcasa #kitdetreino #halteres #achadinhos #tiktokshop` (+ `#publi` se a conta for afiliada)
 
 **Capa:** em_uso
 
 ### P04: 15/10 às 10:00 · L. Segurança e detalhes (novo)
 
-**Narração:** Antes de comprar peso, olha esse detalhe. As anilhas rosqueiam na barra, e as travas seguram tudo no lugar. O revestimento protege o piso. Dá pra começar leve, e ir até quinze quilos. E o mesmo kit vira barra, kettlebell, e apoio de flexão. Mais de sete mil vendidos. Salva esse vídeo, e segue pra mais achados de treino em casa.
+**Narração:** Antes de comprar peso, olha esse detalhe. As travas rosqueiam na barra, e seguram as anilhas no lugar. Dá pra começar leve, e ir até quinze quilos. E o mesmo kit vira barra, kettlebell, e apoio de flexão. Mais de sete mil vendidos. Salva esse vídeo, e segue pra mais achados de treino em casa.
 
-**Cenas:** peso → rosca → abertura → halteres → seis_em_um → em_uso → fechamento
+**Cenas:** peso → rosca → halteres → seis_em_um → em_uso → fechamento
 
 **Arquivos:** `semana-01/P04/roteiro.json`, `semana-01/P04/legenda.txt`
 
 **Legenda:**
-> Antes de comprar peso, confere o detalhe: anilhas que rosqueiam, travas de segurança e revestimento que protege o piso 🔒 Kit 6 em 1 com peso ajustável até 15 kg. Salva e segue pra mais achados 🧡
+> Antes de comprar peso, confere o detalhe: barras rosqueáveis e travas que seguram as anilhas no lugar 🔒 Kit 6 em 1 com peso ajustável até 15 kg. Salva e segue pra mais achados 🧡
 
 `#treinoemcasa #academiaemcasa #kitdetreino #tiktokshop #achadinhos` (+ `#publi` se a conta for afiliada)
 
@@ -172,7 +172,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P10: 16/10 às 18:00 · F. Iniciante (variação 2)
 
-**Narração:** Nunca treinou com peso? Com esse kit, dá pra começar leve. As anilhas rosqueiam na barra, com trava. E o peso vai subindo até quinze quilos. O mesmo conjunto vira barra, kettlebell, e apoio de flexão. Cento e oitenta e quatro e noventa, frete grátis. Salva pra não esquecer, e segue pra mais achados.
+**Narração:** Nunca treinou com peso? Com esse kit, dá pra começar leve. As travas rosqueiam na barra, e seguram as anilhas. E o peso vai subindo até quinze quilos. O mesmo conjunto vira barra, kettlebell, e apoio de flexão. Cento e oitenta e quatro e noventa, frete grátis. Salva pra não esquecer, e segue pra mais achados.
 
 **Cenas:** abertura → halteres → rosca → peso → seis_em_um → preco → fechamento
 
@@ -187,14 +187,14 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P11: 16/10 às 20:00 · G. Pouco espaço
 
-**Narração:** Mora em apartamento pequeno? Esse seis em um ocupa pouco espaço. Monta como halteres... como barra... ou como kettlebell. As anilhas têm revestimento que protege o piso. E as travas seguram tudo no lugar. Mais de sete mil vendidos, nota quatro vírgula seis. Salva esse vídeo, e segue pra mais achados de treino em casa.
+**Narração:** Mora em apartamento pequeno? Esse seis em um ocupa pouco espaço. Monta como halteres... como barra... ou como kettlebell. As travas seguram as anilhas no lugar. E as travas seguram tudo no lugar. Mais de sete mil vendidos, nota quatro vírgula seis. Salva esse vídeo, e segue pra mais achados de treino em casa.
 
 **Cenas:** abertura → seis_em_um → halteres → barra → kettlebell → peso → rosca → em_uso → fechamento
 
 **Arquivos:** `semana-01/P11/roteiro.json`, `semana-01/P11/legenda.txt`
 
 **Legenda:**
-> Apartamento pequeno também tem treino 🏢 Kit 6 em 1 que ocupa pouco espaço e protege o piso. Segue pra mais achados 🧡
+> Apartamento pequeno também tem treino 🏢 Kit 6 em 1 que ocupa pouco espaço, com peso ajustável até 15 kg. Segue pra mais achados 🧡
 
 `#treinoemcasa #academiaemcasa #halteres #tiktokshop #achadinhos` (+ `#publi` se a conta for afiliada)
 
@@ -232,14 +232,14 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P14: 17/10 às 18:00 · G. Pouco espaço (variação 2, sem preço)
 
-**Narração:** Não precisa de um quarto inteiro pra treinar. Esse conjunto seis em um ocupa pouco espaço. E vira halteres... barra... ou kettlebell. As anilhas têm revestimento que protege o piso. Mais de sete mil vendidos. Segue o perfil pra ver mais achados de treino em casa.
+**Narração:** Não precisa de um quarto inteiro pra treinar. Esse conjunto seis em um ocupa pouco espaço. E vira halteres... barra... ou kettlebell. As travas seguram as anilhas no lugar. Mais de sete mil vendidos. Segue o perfil pra ver mais achados de treino em casa.
 
 **Cenas:** pratico → seis_em_um → halteres → barra → kettlebell → peso → em_uso → fechamento
 
 **Arquivos:** `semana-01/P14/roteiro.json`, `semana-01/P14/legenda.txt`
 
 **Legenda:**
-> Pouco espaço em casa? Esse kit 6 em 1 ocupa pouco e protege o piso 🏠 Segue pra mais achados 🧡
+> Pouco espaço em casa? Esse kit 6 em 1 ocupa pouco e tem peso ajustável até 15 kg 🏠 Segue pra mais achados 🧡
 
 `#treinoemcasa #academiaemcasa #apartamentopequeno #tiktokshop #achadinhos` (+ `#publi` se a conta for afiliada)
 
@@ -262,7 +262,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P16: 18/10 às 10:00 · F. Iniciante
 
-**Narração:** Quer começar a treinar em casa, mas não sabe que peso comprar? Aqui você não precisa escolher. Começa leve... e vai rosqueando mais anilhas conforme evolui. E ainda vira barra, kettlebell, e apoio de flexão. Nota quatro vírgula seis, mais de sete mil vendidos. Cento e oitenta e quatro e noventa, com frete grátis. Segue pra ver mais achados de treino em casa.
+**Narração:** Quer começar a treinar em casa, mas não sabe que peso comprar? Aqui você não precisa escolher. Começa leve... e vai colocando mais anilhas conforme evolui. E ainda vira barra, kettlebell, e apoio de flexão. Nota quatro vírgula seis, mais de sete mil vendidos. Cento e oitenta e quatro e noventa, com frete grátis. Segue pra ver mais achados de treino em casa.
 
 **Cenas:** abertura → peso → halteres → rosca → seis_em_um → em_uso → preco → fechamento
 
@@ -397,14 +397,14 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P25: 20/10 às 15:00 · G. Pouco espaço (variação)
 
-**Narração:** Não tem espaço pra montar academia? Esse seis em um ocupa pouco espaço. Halteres... barra... kettlebell... e apoio de flexão, tudo no mesmo conjunto. E o revestimento das anilhas protege o piso. Cento e oitenta e quatro reais e noventa, com frete grátis. Segue o perfil pra ver mais achados de treino em casa.
+**Narração:** Não tem espaço pra montar academia? Esse seis em um ocupa pouco espaço. Halteres... barra... kettlebell... e apoio de flexão, tudo no mesmo conjunto. E as travas seguram as anilhas no lugar. Cento e oitenta e quatro reais e noventa, com frete grátis. Segue o perfil pra ver mais achados de treino em casa.
 
 **Cenas:** pratico → seis_em_um → halteres → barra → kettlebell → flexao → peso → preco → fechamento
 
 **Arquivos:** `semana-01/P25/roteiro.json`, `semana-01/P25/legenda.txt`
 
 **Legenda:**
-> Sem espaço pra academia? Esse kit 6 em 1 ocupa pouco e protege o piso 🏠 Segue pra mais achados 🧡
+> Sem espaço pra academia? Esse kit 6 em 1 ocupa pouco e tem peso ajustável até 15 kg 🏠 Segue pra mais achados 🧡
 
 `#treinoemcasa #academiaemcasa #halteres #tiktokshop #ViralTikTokShop` (+ `#publi` se a conta for afiliada)
 
@@ -427,7 +427,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 ### P27: 20/10 às 20:00 · F. Iniciante (variação)
 
-**Narração:** Primeira vez treinando em casa? Começa com pouco peso, e vai aumentando. É só rosquear mais anilhas, e travar. E o mesmo conjunto vira barra, kettlebell, e apoio de flexão. Mais de sete mil vendidos, nota quatro vírgula seis. Cento e oitenta e quatro e noventa, com frete grátis. Segue pra ver mais achados de treino em casa.
+**Narração:** Primeira vez treinando em casa? Começa com pouco peso, e vai aumentando. É só colocar mais anilhas, e travar. E o mesmo conjunto vira barra, kettlebell, e apoio de flexão. Mais de sete mil vendidos, nota quatro vírgula seis. Cento e oitenta e quatro e noventa, com frete grátis. Segue pra ver mais achados de treino em casa.
 
 **Cenas:** halteres → peso → rosca → seis_em_um → em_uso → preco → fechamento
 

@@ -11,35 +11,30 @@
    "id": "01"
   },
   {
-   "texto": "As anilhas rosqueiam na barra, e as travas seguram tudo no lugar.",
+   "texto": "As travas rosqueiam na barra, e seguram as anilhas no lugar.",
    "cena": "rosca",
    "id": "02"
   },
   {
-   "texto": "O revestimento protege o piso.",
-   "cena": "abertura",
-   "id": "03"
-  },
-  {
    "texto": "Dá pra começar leve, e ir até quinze quilos.",
    "cena": "halteres",
-   "id": "04"
+   "id": "03"
   },
   {
    "texto": "E o mesmo kit vira barra, quétoubél, e apoio de flexão.",
    "cena": "seis_em_um",
    "texto_legivel": "E o mesmo kit vira barra, kettlebell, e apoio de flexão.",
-   "id": "05"
+   "id": "04"
   },
   {
    "texto": "Mais de sete mil vendidos.",
    "cena": "em_uso",
-   "id": "06"
+   "id": "05"
   },
   {
    "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
    "cena": "fechamento",
-   "id": "07"
+   "id": "06"
   }
  ]
 }
