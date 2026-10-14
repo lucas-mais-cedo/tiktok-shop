@@ -1,0 +1,57 @@
+{
+ "id": "P05",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Um conjunto só, seis jeitos de treinar.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "02",
+   "texto": "Par de halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "03",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "04",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "05",
+   "texto": "apoio de flexão...",
+   "cena": "flexao"
+  },
+  {
+   "id": "06",
+   "texto": "e o peso você ajusta, até quinze quilos.",
+   "cena": "peso",
+   "inverter": true
+  },
+  {
+   "id": "07",
+   "texto": "Supino, agachamento, treino de braço, ombro e costas.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "08",
+   "texto": "Sai por cento e oitenta e quatro reais e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "09",
+   "texto": "Carrinho laranja aqui embaixo.",
+   "cena": "fechamento"
+  }
+ ]
+}

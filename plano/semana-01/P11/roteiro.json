@@ -1,0 +1,57 @@
+{
+ "id": "P11",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Chegou cansado, e sem pique pra academia?",
+   "cena": "pratico"
+  },
+  {
+   "id": "02",
+   "texto": "Treino em casa resolve.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "03",
+   "texto": "Com esse seis em um, você muda de exercício sem sair da sala:",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "07",
+   "texto": "Peso ajustável até quinze quilos.",
+   "cena": "peso",
+   "inverter": true
+  },
+  {
+   "id": "08",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "09",
+   "texto": "Toca no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "voz": "pf_dora",
+  "velocidade": 1.08,
+  "verificado_em": "2026-10-14",
+  "fonte": "https://shop.tiktok.com/br/pdp/1737388904634615394",
+  "falas": [
+    {"id": "01_gancho",   "texto": "Academia em casa, por menos de duzentos reais?"},
+    {"id": "02_kit",      "texto": "Olha só: é seis em um."},
+    {"id": "03_halteres", "texto": "Vira um par de halteres..."},
+    {"id": "04_barra",    "texto": "barra..."},
+    {"id": "05_kettle",   "texto": "quétoubél..."},
+    {"id": "06_flexao",   "texto": "e até apoio pra flexão."},
+    {"id": "07_peso",     "texto": "Peso ajustável até quinze quilos, com rosca de segurança."},
+    {"id": "08_prova",    "texto": "Nota quatro vírgula oito, e mais de quinhentos vendidos."},
+    {"id": "09_preco",    "texto": "Tudo isso por cento e setenta e nove reais."},
+    {"id": "10_valor",    "texto": "Prático, completo, e cabe no bolso."},
+    {"id": "11_cta",      "texto": "Toca no carrinho laranja e garante o seu!"}
+  ]
+}

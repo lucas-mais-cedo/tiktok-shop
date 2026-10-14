@@ -1,0 +1,18 @@
+{
+ "nota": "Cenas prontas (recortes sem o texto embutido nas fotos) para as fotos do anúncio LarLuxo Mini (pdp 1737388904634615394), baixadas em 14/10/2026 como foto01..foto10.jpg. Coordenadas em pixels da foto original: c = centro [x, y], w = largura do recorte. r0 = início do movimento, r1 = fim. Se as fotos do anúncio ART CADEIRAS forem outras, confira cada cena na prévia (make_post.py --preview) antes de renderizar.",
+ "fotos_de": "LarLuxo Mini",
+ "cenas": {
+  "abertura":    {"foto": "foto10.jpg", "modo": "branco", "entrada": "punch", "ease": "outcubic", "r0": {"c": [430, 560], "w": 520}, "r1": {"c": [385, 500], "w": 740}},
+  "seis_em_um":  {"foto": "foto02.jpg", "modo": "branco", "entrada": "whip", "r0": {"c": [515, 520], "w": 1000}, "r1": {"c": [520, 500], "w": 860}},
+  "halteres":    {"foto": "foto07.jpg", "modo": "card", "card": [1000, 812], "entrada": "punch", "r0": {"c": [270, 391], "w": 436}, "r1": {"c": [285, 400], "w": 392}},
+  "barra":       {"foto": "foto07.jpg", "modo": "card", "card": [1000, 812], "entrada": "punch", "r0": {"c": [757, 391], "w": 436}, "r1": {"c": [757, 380], "w": 392}},
+  "kettlebell":  {"foto": "foto07.jpg", "modo": "card", "card": [1000, 812], "entrada": "punch", "r0": {"c": [270, 793], "w": 436}, "r1": {"c": [265, 800], "w": 392}},
+  "flexao":      {"foto": "foto07.jpg", "modo": "card", "card": [1000, 812], "entrada": "punch", "r0": {"c": [757, 793], "w": 436}, "r1": {"c": [757, 805], "w": 392}},
+  "peso":        {"foto": "foto04.jpg", "modo": "branco", "entrada": "whip", "r0": {"c": [415, 390], "w": 840}, "r1": {"c": [415, 280], "w": 660}},
+  "rosca":       {"foto": "foto06.jpg", "modo": "card", "card": [1000, 722], "entrada": "punch", "r0": {"c": [512, 654.5], "w": 1024}, "r1": {"c": [480, 700], "w": 860}},
+  "em_uso":      {"foto": "foto08.jpg", "modo": "cheio", "entrada": "whip", "r0": {"c": [687, 498], "w": 560}, "r1": {"c": [695, 455], "w": 500}},
+  "preco":       {"foto": "foto10.jpg", "modo": "branco", "entrada": "flash", "ease": "outcubic", "r0": {"c": [512, 512], "w": 1100}, "r1": {"c": [512, 512], "w": 1000}},
+  "pratico":     {"foto": "foto05.jpg", "modo": "branco", "entrada": "punch", "r0": {"c": [385, 520], "w": 720}, "r1": {"c": [390, 560], "w": 640}},
+  "fechamento":  {"foto": "foto04.jpg", "modo": "branco", "entrada": "whip", "r0": {"c": [515, 520], "w": 880}, "r1": {"c": [512, 512], "w": 1040}}
+ }
+}

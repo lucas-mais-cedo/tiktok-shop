@@ -1,0 +1,51 @@
+{
+ "id": "P14",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Olha tudo o que vem nessa caixa.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "02",
+   "texto": "Oito anilhas: quatro de dois quilos, e quatro de um e meio.",
+   "cena": "peso"
+  },
+  {
+   "id": "03",
+   "texto": "Duas barras rosqueáveis, e uma barra extensora.",
+   "cena": "barra"
+  },
+  {
+   "id": "04",
+   "texto": "Base, e duas alças de quétoubél.",
+   "cena": "kettlebell",
+   "texto_legivel": "Base, e duas alças de kettlebell."
+  },
+  {
+   "id": "05",
+   "texto": "E quatro travas de segurança.",
+   "cena": "rosca"
+  },
+  {
+   "id": "06",
+   "texto": "Dá pra fazer supino, agachamento, e treino de braço.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "07",
+   "texto": "Sai por cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "08",
+   "texto": "Toca no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

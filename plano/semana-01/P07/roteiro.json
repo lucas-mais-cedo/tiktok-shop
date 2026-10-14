@@ -1,0 +1,61 @@
+{
+ "id": "P07",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Pagando academia e não indo?",
+   "cena": "em_uso"
+  },
+  {
+   "id": "02",
+   "texto": "Que tal trazer a academia pra casa?",
+   "cena": "abertura"
+  },
+  {
+   "id": "03",
+   "texto": "Esse conjunto é seis em um.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "Halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "07",
+   "texto": "e apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "08",
+   "texto": "Sem mensalidade, sem fila de aparelho, no seu horário.",
+   "cena": "pratico"
+  },
+  {
+   "id": "09",
+   "texto": "Cento e oitenta e quatro reais e noventa, uma vez só.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "10",
+   "texto": "Link no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

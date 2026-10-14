@@ -1,0 +1,51 @@
+{
+ "id": "P04",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Halter, barra ou quétoubél: qual você usaria primeiro?",
+   "cena": "abertura",
+   "texto_legivel": "Halter, barra ou kettlebell: qual você usaria primeiro?"
+  },
+  {
+   "id": "02",
+   "texto": "Nesse conjunto, você nem precisa escolher.",
+   "cena": "halteres"
+  },
+  {
+   "id": "03",
+   "texto": "É seis em um.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "Rosqueia as anilhas, e vira barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "05",
+   "texto": "monta a base, e vira quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "monta a base, e vira kettlebell..."
+  },
+  {
+   "id": "06",
+   "texto": "e as alças ainda viram apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "07",
+   "texto": "Tudo com trava de segurança.",
+   "cena": "rosca"
+  },
+  {
+   "id": "08",
+   "texto": "Comenta qual seria o seu primeiro treino, e confere o preço no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

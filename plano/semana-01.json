@@ -1,0 +1,1190 @@
+{
+ "semana": 1,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "fuso": "America/Sao_Paulo (UTC-3)",
+ "posts": [
+  {
+   "id": "P01",
+   "dia": 1,
+   "data": "2026-10-14",
+   "hora": "15:00",
+   "angulo": "I. Conteúdo do kit (vídeo do fork)",
+   "pronto": "kit-6-em-1_ref_so-voz.mp4 (27,4 s, já renderizado no PC)",
+   "gancho": "Esse jogo é pra quem quer um kit completinho pra treinar em casa",
+   "legenda": "Academia em casa sem mensalidade 🏋️‍♀️ 8 anilhas, barras, alças de kettlebell e travas num kit só. Prático de montar e cabe no bolso. Tá no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #kettlebell #ViralTikTokShop #tiktokshop",
+   "capa": "1º quadro (kit completo)",
+   "falas": null
+  },
+  {
+   "id": "P02",
+   "dia": 1,
+   "data": "2026-10-14",
+   "hora": "20:00",
+   "angulo": "A. Preço + frete grátis",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Academia em casa por menos de duzentos reais, e com frete grátis?",
+     "cena": "abertura"
+    },
+    {
+     "id": "02",
+     "texto": "Olha só: é seis em um.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Vira um par de halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e até apoio pra flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "Peso ajustável até quinze quilos, com trava de segurança.",
+     "cena": "peso"
+    },
+    {
+     "id": "08",
+     "texto": "Nota quatro vírgula seis, e mais de sete mil vendidos.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "09",
+     "texto": "Tudo isso por cento e oitenta e quatro reais e noventa.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "10",
+     "texto": "Prático, completo, e cabe no bolso.",
+     "cena": "pratico"
+    },
+    {
+     "id": "11",
+     "texto": "Toca no carrinho laranja e garante o seu!",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Academia em casa por menos de R$ 200 e com frete grátis 💪 Halter, barra, kettlebell e apoio de flexão num kit só. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #kettlebell #tiktokshop #ViralTikTokShop",
+   "capa": "abertura"
+  },
+  {
+   "id": "P03",
+   "dia": 2,
+   "data": "2026-10-15",
+   "hora": "10:00",
+   "angulo": "B. Rotina corrida",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Sem tempo pra ir pra academia?",
+     "cena": "abertura",
+     "inverter": true
+    },
+    {
+     "id": "02",
+     "texto": "Treina em casa, no seu horário.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "03",
+     "texto": "Esse conjunto é seis em um:",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "04",
+     "texto": "halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "05",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "06",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "07",
+     "texto": "e apoio pra flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "08",
+     "texto": "As anilhas rosqueiam na barra, e o peso vai até quinze quilos.",
+     "cena": "peso"
+    },
+    {
+     "id": "09",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "10",
+     "texto": "O link tá no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Sem tempo pra academia? Treina em casa no seu horário ⏰ Kit 6 em 1 com peso ajustável até 15 kg. Tá no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kitdetreino #tiktokshop #achadinhos",
+   "capa": "em_uso"
+  },
+  {
+   "id": "P04",
+   "dia": 2,
+   "data": "2026-10-15",
+   "hora": "15:00",
+   "angulo": "E. Pergunta (puxa comentário)",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Halter, barra ou quétoubél: qual você usaria primeiro?",
+     "cena": "abertura",
+     "texto_legivel": "Halter, barra ou kettlebell: qual você usaria primeiro?"
+    },
+    {
+     "id": "02",
+     "texto": "Nesse conjunto, você nem precisa escolher.",
+     "cena": "halteres"
+    },
+    {
+     "id": "03",
+     "texto": "É seis em um.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "04",
+     "texto": "Rosqueia as anilhas, e vira barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "monta a base, e vira quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "monta a base, e vira kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e as alças ainda viram apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "Tudo com trava de segurança.",
+     "cena": "rosca"
+    },
+    {
+     "id": "08",
+     "texto": "Comenta qual seria o seu primeiro treino, e confere o preço no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Halter, barra ou kettlebell: qual você usaria primeiro? 👇 Esse kit 6 em 1 vira os três (e ainda apoio de flexão). Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kettlebell #halteres #tiktokshop",
+   "capa": "seis_em_um"
+  },
+  {
+   "id": "P05",
+   "dia": 2,
+   "data": "2026-10-15",
+   "hora": "20:00",
+   "angulo": "D. Transformação",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Um conjunto só, seis jeitos de treinar.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "02",
+     "texto": "Par de halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "03",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "04",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "05",
+     "texto": "apoio de flexão...",
+     "cena": "flexao"
+    },
+    {
+     "id": "06",
+     "texto": "e o peso você ajusta, até quinze quilos.",
+     "cena": "peso",
+     "inverter": true
+    },
+    {
+     "id": "07",
+     "texto": "Supino, agachamento, treino de braço, ombro e costas.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "08",
+     "texto": "Sai por cento e oitenta e quatro reais e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Carrinho laranja aqui embaixo.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Um kit, seis jeitos de treinar 🏋️‍♀️ Supino, agachamento, braço, ombro e costas em casa. Frete grátis no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #musculacao #halteres #tiktokshop #ViralTikTokShop",
+   "capa": "seis_em_um"
+  },
+  {
+   "id": "P06",
+   "dia": 3,
+   "data": "2026-10-16",
+   "hora": "10:00",
+   "angulo": "A. Preço (variação)",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Quanto custa montar uma academia em casa?",
+     "cena": "abertura",
+     "inverter": true
+    },
+    {
+     "id": "02",
+     "texto": "Com esse seis em um, menos de duzentos reais.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Vem halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra extensora...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "alças de quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "alças de kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e as travas de segurança.",
+     "cena": "rosca"
+    },
+    {
+     "id": "07",
+     "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "08",
+     "texto": "Cento e oitenta e quatro e noventa, e o frete é grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Toca no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Quanto custa montar academia em casa? Menos de R$ 200 com esse kit 6 em 1 (e frete grátis) 💪 Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #tiktokshop #achadinhos",
+   "capa": "abertura"
+  },
+  {
+   "id": "P07",
+   "dia": 3,
+   "data": "2026-10-16",
+   "hora": "15:00",
+   "angulo": "C. Sem mensalidade",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Pagando academia e não indo?",
+     "cena": "em_uso"
+    },
+    {
+     "id": "02",
+     "texto": "Que tal trazer a academia pra casa?",
+     "cena": "abertura"
+    },
+    {
+     "id": "03",
+     "texto": "Esse conjunto é seis em um.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "04",
+     "texto": "Halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "05",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "06",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "07",
+     "texto": "e apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "08",
+     "texto": "Sem mensalidade, sem fila de aparelho, no seu horário.",
+     "cena": "pratico"
+    },
+    {
+     "id": "09",
+     "texto": "Cento e oitenta e quatro reais e noventa, uma vez só.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "10",
+     "texto": "Link no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Academia em casa sem mensalidade e sem fila de aparelho 🏠💪 Kit 6 em 1: halteres, barra, kettlebell e apoio de flexão. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kitdetreino #tiktokshop #ViralTikTokShop",
+   "capa": "em_uso"
+  },
+  {
+   "id": "P08",
+   "dia": 3,
+   "data": "2026-10-16",
+   "hora": "20:00",
+   "angulo": "G. Pouco espaço",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Mora em apartamento pequeno?",
+     "cena": "abertura"
+    },
+    {
+     "id": "02",
+     "texto": "Esse seis em um ocupa pouco espaço.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Monta como halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "como barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "ou como quétoubél.",
+     "cena": "kettlebell",
+     "texto_legivel": "ou como kettlebell."
+    },
+    {
+     "id": "06",
+     "texto": "As anilhas têm revestimento que protege o piso.",
+     "cena": "peso"
+    },
+    {
+     "id": "07",
+     "texto": "E as travas seguram tudo no lugar.",
+     "cena": "rosca"
+    },
+    {
+     "id": "08",
+     "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "09",
+     "texto": "Confere o preço no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Apartamento pequeno também tem treino 🏢 Kit 6 em 1 que ocupa pouco espaço e protege o piso. Tá no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #tiktokshop #achadinhos",
+   "capa": "abertura"
+  },
+  {
+   "id": "P09",
+   "dia": 4,
+   "data": "2026-10-17",
+   "hora": "10:00",
+   "angulo": "E. Pergunta (variação)",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Você treinaria em casa com isso aqui?",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "02",
+     "texto": "São oito anilhas: quatro de dois quilos, e quatro de um e meio.",
+     "cena": "peso"
+    },
+    {
+     "id": "03",
+     "texto": "Duas barras rosqueáveis, e uma barra extensora.",
+     "cena": "barra"
+    },
+    {
+     "id": "04",
+     "texto": "Base e alças de quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "Base e alças de kettlebell..."
+    },
+    {
+     "id": "05",
+     "texto": "que também viram apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "06",
+     "texto": "E as travas de segurança.",
+     "cena": "rosca"
+    },
+    {
+     "id": "07",
+     "texto": "Tudo por cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "08",
+     "texto": "Responde aqui nos comentários, e o link tá no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Você treinaria em casa com isso? 👇 8 anilhas, 3 barras, alças de kettlebell e travas. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kettlebell #tiktokshop #ViralTikTokShop",
+   "capa": "seis_em_um"
+  },
+  {
+   "id": "P10",
+   "dia": 4,
+   "data": "2026-10-17",
+   "hora": "15:00",
+   "angulo": "H. Prova social",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Esse aqui já passou de sete mil vendidos.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "02",
+     "texto": "É o conjunto seis em um pra treinar em casa.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+     "cena": "abertura",
+     "inverter": true
+    },
+    {
+     "id": "08",
+     "texto": "E sai por cento e oitenta e quatro reais e noventa, frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Garante o seu no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Passou de 7 mil vendidos e nota 4,6 ⭐ Kit 6 em 1 pra treinar em casa, com frete grátis. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #tiktokshop #achadinhos",
+   "capa": "em_uso"
+  },
+  {
+   "id": "P11",
+   "dia": 4,
+   "data": "2026-10-17",
+   "hora": "20:00",
+   "angulo": "B. Rotina corrida (variação)",
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Chegou cansado, e sem pique pra academia?",
+     "cena": "pratico"
+    },
+    {
+     "id": "02",
+     "texto": "Treino em casa resolve.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "03",
+     "texto": "Com esse seis em um, você muda de exercício sem sair da sala:",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "04",
+     "texto": "halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "05",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "06",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "07",
+     "texto": "Peso ajustável até quinze quilos.",
+     "cena": "peso",
+     "inverter": true
+    },
+    {
+     "id": "08",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Toca no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Chegou cansado? Treina em casa mesmo 💪 Kit 6 em 1 com peso ajustável até 15 kg. Link no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #musculacao #tiktokshop #ViralTikTokShop",
+   "capa": "pratico"
+  },
+  {
+   "id": "P12",
+   "dia": 5,
+   "data": "2026-10-18",
+   "hora": "10:00",
+   "angulo": "F. Iniciante",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Quer começar a treinar em casa, mas não sabe que peso comprar?",
+     "cena": "abertura"
+    },
+    {
+     "id": "02",
+     "texto": "Aqui você não precisa escolher.",
+     "cena": "peso"
+    },
+    {
+     "id": "03",
+     "texto": "Começa leve...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "e vai rosqueando mais anilhas conforme evolui.",
+     "cena": "rosca"
+    },
+    {
+     "id": "05",
+     "texto": "E ainda vira barra, quétoubél, e apoio de flexão.",
+     "cena": "seis_em_um",
+     "texto_legivel": "E ainda vira barra, kettlebell, e apoio de flexão."
+    },
+    {
+     "id": "06",
+     "texto": "Nota quatro vírgula seis, mais de sete mil vendidos.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "07",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "08",
+     "texto": "O link tá no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Começando a treinar em casa? Começa leve e vai aumentando as anilhas 🏋️‍♀️ Kit 6 em 1 no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #treinoiniciante #halteres #tiktokshop",
+   "capa": "abertura"
+  },
+  {
+   "id": "P13",
+   "dia": 5,
+   "data": "2026-10-18",
+   "hora": "15:00",
+   "angulo": "D. Transformação (variação)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Isso aqui é um par de halteres.",
+     "cena": "halteres"
+    },
+    {
+     "id": "02",
+     "texto": "Agora é uma barra.",
+     "cena": "barra"
+    },
+    {
+     "id": "03",
+     "texto": "Agora, um quétoubél.",
+     "cena": "kettlebell",
+     "texto_legivel": "Agora, um kettlebell."
+    },
+    {
+     "id": "04",
+     "texto": "E agora, apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "05",
+     "texto": "Tudo no mesmo conjunto: seis em um.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "06",
+     "texto": "Com trava de segurança em cada anilha.",
+     "cena": "rosca"
+    },
+    {
+     "id": "07",
+     "texto": "Cento e oitenta e quatro reais e noventa, e frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "08",
+     "texto": "Carrinho laranja!",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Halter → barra → kettlebell → apoio de flexão. Tudo no mesmo kit 🔄 Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kettlebell #tiktokshop #ViralTikTokShop",
+   "capa": "halteres"
+  },
+  {
+   "id": "P14",
+   "dia": 5,
+   "data": "2026-10-18",
+   "hora": "20:00",
+   "angulo": "I. Conteúdo do kit (nova versão)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Olha tudo o que vem nessa caixa.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "02",
+     "texto": "Oito anilhas: quatro de dois quilos, e quatro de um e meio.",
+     "cena": "peso"
+    },
+    {
+     "id": "03",
+     "texto": "Duas barras rosqueáveis, e uma barra extensora.",
+     "cena": "barra"
+    },
+    {
+     "id": "04",
+     "texto": "Base, e duas alças de quétoubél.",
+     "cena": "kettlebell",
+     "texto_legivel": "Base, e duas alças de kettlebell."
+    },
+    {
+     "id": "05",
+     "texto": "E quatro travas de segurança.",
+     "cena": "rosca"
+    },
+    {
+     "id": "06",
+     "texto": "Dá pra fazer supino, agachamento, e treino de braço.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "07",
+     "texto": "Sai por cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "08",
+     "texto": "Toca no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Olha tudo o que vem na caixa 📦 8 anilhas, 3 barras, base e alças de kettlebell e 4 travas. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kitdetreino #tiktokshop #achadinhos",
+   "capa": "seis_em_um"
+  },
+  {
+   "id": "P15",
+   "dia": 6,
+   "data": "2026-10-19",
+   "hora": "10:00",
+   "angulo": "C. Sem mensalidade (variação)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Academia em casa, sem mensalidade.",
+     "cena": "pratico"
+    },
+    {
+     "id": "02",
+     "texto": "É esse conjunto seis em um.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e apoio pra flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "Peso ajustável até quinze quilos.",
+     "cena": "peso"
+    },
+    {
+     "id": "08",
+     "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "09",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "10",
+     "texto": "O link tá no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Academia em casa sem mensalidade 🏋️‍♀️ 8 anilhas, barras, alças de kettlebell e travas num kit só. Tá no carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #kettlebell #ViralTikTokShop #tiktokshop",
+   "capa": "pratico"
+  },
+  {
+   "id": "P16",
+   "dia": 6,
+   "data": "2026-10-19",
+   "hora": "15:00",
+   "angulo": "A. Preço (variação 2)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Menos de duzentos reais, e frete grátis.",
+     "cena": "abertura"
+    },
+    {
+     "id": "02",
+     "texto": "Por um conjunto seis em um completo.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "apoio pra flexão...",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "e trava de segurança.",
+     "cena": "rosca"
+    },
+    {
+     "id": "08",
+     "texto": "Cento e oitenta e quatro reais e noventa.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Toca no carrinho laranja, e garante o seu.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Menos de R$ 200 e frete grátis por um kit 6 em 1 completo 💪 Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #tiktokshop #achadinhos",
+   "capa": "abertura"
+  },
+  {
+   "id": "P17",
+   "dia": 6,
+   "data": "2026-10-19",
+   "hora": "20:00",
+   "angulo": "J. Presente",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Presente pra quem vive dizendo que segunda começa.",
+     "cena": "abertura"
+    },
+    {
+     "id": "02",
+     "texto": "Um conjunto seis em um pra treinar em casa.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "O peso é ajustável: começa leve, e aumenta com o tempo.",
+     "cena": "peso"
+    },
+    {
+     "id": "08",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Carrinho laranja. E marca essa pessoa aqui nos comentários.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Marca aquela pessoa que vive dizendo que segunda começa 😅 Kit 6 em 1 pra treinar em casa. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #presente #tiktokshop #ViralTikTokShop",
+   "capa": "abertura"
+  },
+  {
+   "id": "P18",
+   "dia": 7,
+   "data": "2026-10-20",
+   "hora": "10:00",
+   "angulo": "H. Prova social (variação)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "02",
+     "texto": "É o seis em um com mais de sete mil vendidos.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Vira halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "08",
+     "texto": "Confere no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Nota 4,6 com mais de mil avaliações ⭐ Kit 6 em 1: halteres, barra, kettlebell e apoio de flexão. Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kettlebell #tiktokshop #achadinhos",
+   "capa": "em_uso"
+  },
+  {
+   "id": "P19",
+   "dia": 7,
+   "data": "2026-10-20",
+   "hora": "15:00",
+   "angulo": "G. Pouco espaço (variação)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Não tem espaço pra montar academia?",
+     "cena": "pratico"
+    },
+    {
+     "id": "02",
+     "texto": "Esse seis em um ocupa pouco espaço.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "03",
+     "texto": "Halteres...",
+     "cena": "halteres"
+    },
+    {
+     "id": "04",
+     "texto": "barra...",
+     "cena": "barra"
+    },
+    {
+     "id": "05",
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell..."
+    },
+    {
+     "id": "06",
+     "texto": "e apoio de flexão, tudo no mesmo conjunto.",
+     "cena": "flexao"
+    },
+    {
+     "id": "07",
+     "texto": "E o revestimento das anilhas protege o piso.",
+     "cena": "peso"
+    },
+    {
+     "id": "08",
+     "texto": "Cento e oitenta e quatro reais e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "09",
+     "texto": "Toca no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Sem espaço pra academia? Esse kit 6 em 1 ocupa pouco e protege o piso 🏠 Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #halteres #tiktokshop #ViralTikTokShop",
+   "capa": "pratico"
+  },
+  {
+   "id": "P20",
+   "dia": 7,
+   "data": "2026-10-20",
+   "hora": "20:00",
+   "angulo": "F. Iniciante (variação)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Primeira vez treinando em casa?",
+     "cena": "halteres"
+    },
+    {
+     "id": "02",
+     "texto": "Começa com pouco peso, e vai aumentando.",
+     "cena": "peso"
+    },
+    {
+     "id": "03",
+     "texto": "É só rosquear mais anilhas, e travar.",
+     "cena": "rosca"
+    },
+    {
+     "id": "04",
+     "texto": "E o mesmo conjunto vira barra, quétoubél, e apoio de flexão.",
+     "cena": "seis_em_um",
+     "texto_legivel": "E o mesmo conjunto vira barra, kettlebell, e apoio de flexão."
+    },
+    {
+     "id": "05",
+     "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+     "cena": "em_uso"
+    },
+    {
+     "id": "06",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "07",
+     "texto": "O link tá no carrinho laranja.",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Primeira vez treinando em casa? Peso ajustável: começa leve e vai aumentando 💪 Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #musculacao #tiktokshop #achadinhos",
+   "capa": "halteres"
+  },
+  {
+   "id": "P21",
+   "dia": 8,
+   "data": "2026-10-21",
+   "hora": "10:00",
+   "angulo": "Melhor ângulo da semana (definido no relatório de 20/10)",
+   "provisorio": true,
+   "falas": [
+    {
+     "id": "01",
+     "texto": "Isso aqui é um quétoubél.",
+     "cena": "kettlebell",
+     "texto_legivel": "Isso aqui é um kettlebell."
+    },
+    {
+     "id": "02",
+     "texto": "Rosqueia diferente, e vira um par de halteres.",
+     "cena": "halteres"
+    },
+    {
+     "id": "03",
+     "texto": "Junta tudo, e vira barra.",
+     "cena": "barra"
+    },
+    {
+     "id": "04",
+     "texto": "As alças viram apoio de flexão.",
+     "cena": "flexao"
+    },
+    {
+     "id": "05",
+     "texto": "Seis em um, com peso ajustável até quinze quilos.",
+     "cena": "seis_em_um"
+    },
+    {
+     "id": "06",
+     "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+     "cena": "preco",
+     "preco": true
+    },
+    {
+     "id": "07",
+     "texto": "Carrinho laranja!",
+     "cena": "fechamento"
+    }
+   ],
+   "legenda": "Kettlebell, halteres, barra e apoio de flexão: tudo no mesmo kit 🔄 Carrinho laranja 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kettlebell #tiktokshop #ViralTikTokShop",
+   "capa": "kettlebell"
+  }
+ ]
+}

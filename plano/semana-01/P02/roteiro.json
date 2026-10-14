@@ -1,0 +1,66 @@
+{
+ "id": "P02",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Academia em casa por menos de duzentos reais, e com frete grátis?",
+   "cena": "abertura"
+  },
+  {
+   "id": "02",
+   "texto": "Olha só: é seis em um.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "03",
+   "texto": "Vira um par de halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "04",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "05",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "06",
+   "texto": "e até apoio pra flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "07",
+   "texto": "Peso ajustável até quinze quilos, com trava de segurança.",
+   "cena": "peso"
+  },
+  {
+   "id": "08",
+   "texto": "Nota quatro vírgula seis, e mais de sete mil vendidos.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "09",
+   "texto": "Tudo isso por cento e oitenta e quatro reais e noventa.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "10",
+   "texto": "Prático, completo, e cabe no bolso.",
+   "cena": "pratico"
+  },
+  {
+   "id": "11",
+   "texto": "Toca no carrinho laranja e garante o seu!",
+   "cena": "fechamento"
+  }
+ ]
+}

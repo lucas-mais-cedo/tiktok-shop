@@ -1,0 +1,51 @@
+{
+ "id": "P12",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Quer começar a treinar em casa, mas não sabe que peso comprar?",
+   "cena": "abertura"
+  },
+  {
+   "id": "02",
+   "texto": "Aqui você não precisa escolher.",
+   "cena": "peso"
+  },
+  {
+   "id": "03",
+   "texto": "Começa leve...",
+   "cena": "halteres"
+  },
+  {
+   "id": "04",
+   "texto": "e vai rosqueando mais anilhas conforme evolui.",
+   "cena": "rosca"
+  },
+  {
+   "id": "05",
+   "texto": "E ainda vira barra, quétoubél, e apoio de flexão.",
+   "cena": "seis_em_um",
+   "texto_legivel": "E ainda vira barra, kettlebell, e apoio de flexão."
+  },
+  {
+   "id": "06",
+   "texto": "Nota quatro vírgula seis, mais de sete mil vendidos.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "07",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "08",
+   "texto": "O link tá no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

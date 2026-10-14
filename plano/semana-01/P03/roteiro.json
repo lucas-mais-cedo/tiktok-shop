@@ -1,0 +1,62 @@
+{
+ "id": "P03",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Sem tempo pra ir pra academia?",
+   "cena": "abertura",
+   "inverter": true
+  },
+  {
+   "id": "02",
+   "texto": "Treina em casa, no seu horário.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "03",
+   "texto": "Esse conjunto é seis em um:",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "07",
+   "texto": "e apoio pra flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "08",
+   "texto": "As anilhas rosqueiam na barra, e o peso vai até quinze quilos.",
+   "cena": "peso"
+  },
+  {
+   "id": "09",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "10",
+   "texto": "O link tá no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

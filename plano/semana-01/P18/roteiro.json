@@ -1,0 +1,51 @@
+{
+ "id": "P18",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "02",
+   "texto": "É o seis em um com mais de sete mil vendidos.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "03",
+   "texto": "Vira halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "04",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "05",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "06",
+   "texto": "e apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "07",
+   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "08",
+   "texto": "Confere no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

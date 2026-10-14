@@ -1,0 +1,57 @@
+{
+ "id": "P06",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Quanto custa montar uma academia em casa?",
+   "cena": "abertura",
+   "inverter": true
+  },
+  {
+   "id": "02",
+   "texto": "Com esse seis em um, menos de duzentos reais.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "03",
+   "texto": "Vem halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "04",
+   "texto": "barra extensora...",
+   "cena": "barra"
+  },
+  {
+   "id": "05",
+   "texto": "alças de quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "alças de kettlebell..."
+  },
+  {
+   "id": "06",
+   "texto": "e as travas de segurança.",
+   "cena": "rosca"
+  },
+  {
+   "id": "07",
+   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "08",
+   "texto": "Cento e oitenta e quatro e noventa, e o frete é grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "09",
+   "texto": "Toca no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

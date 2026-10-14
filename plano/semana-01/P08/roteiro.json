@@ -1,0 +1,55 @@
+{
+ "id": "P08",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "id": "01",
+   "texto": "Mora em apartamento pequeno?",
+   "cena": "abertura"
+  },
+  {
+   "id": "02",
+   "texto": "Esse seis em um ocupa pouco espaço.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "03",
+   "texto": "Monta como halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "04",
+   "texto": "como barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "05",
+   "texto": "ou como quétoubél.",
+   "cena": "kettlebell",
+   "texto_legivel": "ou como kettlebell."
+  },
+  {
+   "id": "06",
+   "texto": "As anilhas têm revestimento que protege o piso.",
+   "cena": "peso"
+  },
+  {
+   "id": "07",
+   "texto": "E as travas seguram tudo no lugar.",
+   "cena": "rosca"
+  },
+  {
+   "id": "08",
+   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "09",
+   "texto": "Confere o preço no carrinho laranja.",
+   "cena": "fechamento"
+  }
+ ]
+}

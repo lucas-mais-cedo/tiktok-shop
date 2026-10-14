@@ -1,0 +1,13 @@
+# vídeos e arquivos gerados (pesados)
+saida/
+**/saida/
+*.mp4
+*.wav
+# fotos de anúncio de terceiros (repositório público)
+fotos-anuncio/
+fotos-art-cadeiras/
+# ambientes locais
+venv/
+.venv/
+kmodel/
+__pycache__/
