@@ -1,6 +1,6 @@
-# Pipeline de vídeo (fotos do anúncio + narração, sem texto na tela)
+# Pipeline de vídeo (fotos do anúncio + narração + legenda na tela)
 
-Formato: 1080x1920, 30 fps, H.264, AAC 48 kHz, -14 LUFS, 18 a 30 s. A oferta vem toda pela narração; nada de texto na tela (o TikTok põe a legenda e o carrinho por cima).
+Formato: 1080x1920, 30 fps, H.264, AAC 48 kHz, -14 LUFS, 16 a 30 s. A oferta vem pela narração, com a **legenda na tela** (obrigatória em vídeo narrado). Fora a legenda, nenhum texto: o texto embutido nas fotos do anúncio é recortado. A trilha em alta entra depois, no editor do TikTok.
 
 ## Arquivos
 
@@ -12,6 +12,7 @@ Formato: 1080x1920, 30 fps, H.264, AAC 48 kHz, -14 LUFS, 18 a 30 s. A oferta vem
 | `auto_timeline.py` | monta `timeline.json` a partir do roteiro, das cenas prontas e da duração real das falas |
 | `build_audio.py` | posiciona as falas, cria trilha original (sem direitos de terceiros), whooshes e ducking; gera `mix_so_voz.wav` e `mix_com_musica.wav` |
 | `render.py` | anima as fotos (zoom/pan, cartões sem o texto embutido, transições punch/whip/flash); `--preview` gera 2 quadros por cena |
+| `legendas.py` | queima a legenda na tela. Modo `roteiro` (usado pelo make_post, tempos exatos) e modo `audio` (vídeo pronto: alinha o texto com o Whisper; `--ate auto` corta depois da última palavra) |
 | `mux.py` | junta vídeo + áudio normalizando para -14 LUFS (duas passadas) |
 
 Cenas prontas do produto: `produtos/kit-6-em-1/cenas.json` (recortes nas fotos `foto01..foto10.jpg` da LarLuxo). Nomes: `abertura`, `seis_em_um`, `halteres`, `barra`, `kettlebell`, `flexao`, `peso`, `rosca`, `em_uso`, `preco`, `pratico`, `fechamento`.

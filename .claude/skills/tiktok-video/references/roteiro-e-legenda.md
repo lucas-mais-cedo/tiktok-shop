@@ -8,9 +8,9 @@
 | 2,5 a 9 s | **Demonstração** | o "seis em um" virando halter, barra, kettlebell, apoio de flexão (cenas em sequência rápida). |
 | 9 a 16 s | **Detalhe/prova** | peso ajustável, trava de segurança, não risca o piso, nota e vendidos (do dia). |
 | 16 a 22 s | **Preço/valor** | preço do dia + frete grátis (se verificado). Sem "só hoje". |
-| últimos 3 s | **Chamada** | "Toca no carrinho laranja" (variar: "o link tá no carrinho laranja", "confere no carrinho laranja"). |
+| últimos 3 s | **Chamada** | **Fase 1 (sem carrinho):** "Segue o perfil pra ver mais achados de treino em casa", "Salva esse vídeo, e segue pra mais achados", "Comenta..., e segue pra ver mais". **Fase 2 (com produto ligado):** "Toca no carrinho laranja" e variações. |
 
-Para variar entre posts do mesmo dia: mudar o gancho, a ordem de demonstração/prova, as cenas (`inverter`), e terminar às vezes sem falar preço (o carrinho mostra).
+Para variar entre posts do mesmo dia: mudar o gancho, a ordem de demonstração/prova, as cenas (`inverter`), e terminar às vezes sem falar preço.
 
 ## Banco de ganchos (todos verdadeiros para o Kit 6 em 1)
 
@@ -32,12 +32,19 @@ Proibido no gancho e no roteiro: promessa de corpo/resultado, "milagre", "secar"
 ## Legenda
 
 - 1 a 3 frases, até ~150 caracteres antes das hashtags. Primeira frase = benefício ou pergunta (aparece na tela).
-- Terminar com "carrinho laranja 🧡" ou pergunta que puxe comentário ("Qual você usaria primeiro? 👇").
+- Terminar com "Segue pra mais achados 🧡" (fase 1) ou "carrinho laranja 🧡" (só na fase 2), ou com pergunta que puxe comentário ("Qual você usaria primeiro? 👇").
 - Não repetir o texto do vídeo palavra por palavra; complementar (ex.: o que vem no kit).
 - Não copiar o título do anúncio: vídeos que fazem isso tiveram 1 a 9 curtidas.
 
 **Legenda padrão (fork):**
-> Academia em casa sem mensalidade 🏋️‍♀️ 8 anilhas, barras, alças de kettlebell e travas num kit só. Prático de montar e cabe no bolso. Tá no carrinho laranja 🧡
+> Academia em casa sem mensalidade 🏋️‍♀️ 8 anilhas, barras, alças de kettlebell e travas num kit só. Prático de montar e cabe no bolso. Segue pra ver mais achados 🧡
+
+(Na fase 2, a última frase volta a ser "Tá no carrinho laranja 🧡", como no fork.)
+
+## Legenda na tela (obrigatória em vídeo narrado)
+
+- Blocos curtos (até ~18 caracteres, 2 a 4 palavras), branco grosso com contorno preto, na faixa central-baixa da tela (acima do nome, da legenda do post e dos botões).
+- Números em algarismos (R$ 184,90, 15 kg, 4,6): a tabela `EXIBIR` em `pipeline/legendas.py` converte. Se o preço mudar, acrescente a nova frase falada nessa tabela ou ponha `"legenda"` na fala do roteiro.
 
 ## Hashtags (4 a 6)
 
