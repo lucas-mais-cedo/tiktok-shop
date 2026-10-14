@@ -9,7 +9,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 | Post | Dia | Data | Hora | Ângulo | Gancho | Status |
 |---|---|---|---|---|---|---|
 | P01 | qua 1 | 14/10 | 15:00 | I. Conteúdo do kit (vídeo do fork) | Esse jogo é pra quem quer um kit completinho pra treinar em casa | pronto (vídeo do fork) |
-| P02 | qua 1 | 14/10 | 20:00 | A. Preço + frete grátis | Academia em casa por menos de duzentos reais, e com frete grátis? | roteiro pronto |
+| P02 | qua 1 | 14/10 | 18:00 | A. Preço + frete grátis | Academia em casa por menos de duzentos reais, e com frete grátis? | roteiro pronto |
 | P03 | qui 2 | 15/10 | 10:00 | B. Rotina corrida | Sem tempo pra ir pra academia? | roteiro pronto |
 | P04 | qui 2 | 15/10 | 15:00 | E. Pergunta (puxa comentário) | Halter, barra ou kettlebell: qual você usaria primeiro? | roteiro pronto |
 | P05 | qui 2 | 15/10 | 18:00 | H. Prova social (pergunta) | Por que esse kit já vendeu mais de sete mil? | roteiro pronto |
@@ -49,7 +49,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 
 **Capa:** 1º quadro (kit completo)
 
-### P02: 14/10 às 20:00 · A. Preço + frete grátis
+### P02: 14/10 às 18:00 · A. Preço + frete grátis
 
 **Narração:** Academia em casa por menos de duzentos reais, e com frete grátis? Olha só: é seis em um. Vira um par de halteres... barra... kettlebell... e até apoio pra flexão. Peso ajustável até quinze quilos, com trava de segurança. Nota quatro vírgula seis, e mais de sete mil vendidos. Tudo isso por cento e oitenta e quatro reais e noventa. Prático, completo, e cabe no bolso. Segue o perfil pra ver mais achados de treino em casa!
 

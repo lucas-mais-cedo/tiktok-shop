@@ -21,7 +21,7 @@
    "id": "P02",
    "dia": 1,
    "data": "2026-10-14",
-   "hora": "20:00",
+   "hora": "18:00",
    "angulo": "A. Preço + frete grátis",
    "falas": [
     {
@@ -1519,5 +1519,5 @@
   "18:00",
   "20:00"
  ],
- "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00)."
+ "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00."
 }
