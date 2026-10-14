@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-14T15:30-03:00",
+  "atualizado_em": "2026-10-14T15:36-03:00",
   "nota": "Estado da conta que muda o que os roteiros podem dizer. Atualize este arquivo quando algo mudar; o preparo diário dos posts lê daqui.",
   "tipo_conta": "pessoal",
   "seguidores": 1,
@@ -19,7 +19,8 @@
   "comissao_ativa": true,
   "regra_publi": "comissao_ativa=true: #publi na legenda e divulgação de conteúdo de marca ligada no TikTok",
   "quem_gera_video": "chat local 'Editor de Videos' (local_2759ef03-23ce-4b7e-8e94-823793ce9de3), via sessão do PC",
-  "atendimento_dm": "ativo desde 14/10. O usuário aprovou 'Pode enviar direto' na sessão do PC. Ciclo a cada 2 h, das 07:26 às 23:26 de Brasília, até 21/10 (agendamento 'Atendimento de DMs a cada 2 h (PC)'). O resumo de cada ciclo chega por mensagem da sessão do PC à sessão da nuvem 'Social Media'.",
+  "atendimento_dm": "ativo desde 14/10, em MODO RASCUNHO: a proteção da sessão do PC bloqueou o envio da 1ª resposta (15:32). O PC lê as DMs e prepara os rascunhos; o usuário envia. Ciclo a cada 2 h, das 07:26 às 23:26 de Brasília, até 21/10 (agendamento 'Atendimento de DMs a cada 2 h (PC)'). O resumo chega por mensagem à sessão da nuvem 'Social Media'.",
   "comissao_confirmada_no_app": null,
-  "nota_comissao": "A sessão do PC achou que o link parece de compartilhamento comum (marca de WhatsApp). O usuário precisa confirmar na Central de Afiliados se ele gera comissão. Até lá, mantemos #publi e a frase de afiliado (divulgar a mais não prejudica)."
+  "nota_comissao": "A sessão do PC achou que o link parece de compartilhamento comum (marca de WhatsApp). O usuário precisa confirmar na Central de Afiliados se ele gera comissão. Até lá, mantemos #publi e a frase de afiliado (divulgar a mais não prejudica).",
+  "respostas_comentarios": "a sessão do PC só lê; responder ou ocultar precisa do ok do usuário dado na própria sessão do PC"
 }
