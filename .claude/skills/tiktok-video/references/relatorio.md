@@ -30,11 +30,11 @@ Se esses dados não vierem, o relatório diz "não disponível" (nunca estimar).
 
 ## 3. Decidir (regras)
 
-**Horários (10h, 15h, 18h, 20h; o de 18h começa em 15/10):**
+**Horários (10h, 15h, 18h, 20h, 23h59):**
 1. Comparar horários pela **mediana das visualizações com 24 h** de cada horário, e cada ângulo aparece em mais de um horário (o calendário já roda os ângulos) para não confundir horário com conteúdo.
 2. Só mexer depois de **3 posts por horário** (primeira decisão possível no relatório de 17/10, valendo a partir de 18/10; o horário de 18h também chega a 3 posts em 17/10).
 3. Se um horário ficar abaixo de **60% do melhor** em 2 relatórios seguidos: trocar esse horário por um candidato por 2 dias (candidatos: 07:30, 12:00, 21:30) e ficar com o que for melhor.
-4. Mudar **no máximo 1 horário por dia** e manter 4 posts por dia.
+4. Mudar **no máximo 1 horário por dia** e manter 5 posts por dia.
 5. Quando a conta passar de 100 seguidores, usar também TikTok Studio → Seguidores → horários mais ativos.
 
 **Conteúdo:**

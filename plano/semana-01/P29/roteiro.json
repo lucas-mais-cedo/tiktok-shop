@@ -1,0 +1,55 @@
+{
+ "id": "P29",
+ "voz": "pf_dora",
+ "velocidade": 1.08,
+ "produto": "https://shop.tiktok.com/br/pdp/1737041809079633642",
+ "verificado_em": "2026-10-14",
+ "falas": [
+  {
+   "texto": "Amanhã cedo, qual treino você faria em casa?",
+   "cena": "abertura",
+   "id": "01"
+  },
+  {
+   "texto": "Com um kit só, dá pra escolher.",
+   "cena": "seis_em_um",
+   "id": "02"
+  },
+  {
+   "texto": "Halteres...",
+   "cena": "halteres",
+   "id": "03"
+  },
+  {
+   "texto": "barra...",
+   "cena": "barra",
+   "id": "04"
+  },
+  {
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell...",
+   "id": "05"
+  },
+  {
+   "texto": "ou apoio pra flexão.",
+   "cena": "flexao",
+   "id": "06"
+  },
+  {
+   "texto": "O peso é ajustável até quinze quilos.",
+   "cena": "peso",
+   "id": "07"
+  },
+  {
+   "texto": "Mais de sete mil vendidos.",
+   "cena": "em_uso",
+   "id": "08"
+  },
+  {
+   "texto": "Comenta qual você escolheria, e segue pra mais achados.",
+   "cena": "fechamento",
+   "id": "09"
+  }
+ ]
+}

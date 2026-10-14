@@ -11,6 +11,7 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 | P01 | qua 1 | 14/10 | 15:00 | I. Conteúdo do kit (vídeo do fork) | Esse jogo é pra quem quer um kit completinho pra treinar em casa | pronto (vídeo do fork) |
 | P02 | qua 1 | 14/10 | 18:00 | A. Preço + frete grátis | Academia em casa por menos de duzentos reais, e com frete grátis? | roteiro pronto |
 | P03 | qua 1 | 14/10 | 20:00 | B. Rotina corrida | Sem tempo pra ir pra academia? | roteiro pronto |
+| P29 | qua 1 | 14/10 | 23:59 | M. Pergunta noturna (treino de amanhã, sem preço) | Amanhã cedo, qual treino você faria em casa? | roteiro pronto |
 | P04 | qui 2 | 15/10 | 10:00 | L. Segurança e detalhes (novo) | Antes de comprar peso, olha esse detalhe. | roteiro pronto |
 | P05 | qui 2 | 15/10 | 15:00 | E. Pergunta (puxa comentário) | Halter, barra ou kettlebell: qual você usaria primeiro? | roteiro pronto |
 | P06 | qui 2 | 15/10 | 18:00 | H. Prova social (pergunta) | Por que esse kit já vendeu mais de sete mil? | roteiro pronto |
@@ -79,6 +80,21 @@ Posts marcados *provisório* podem mudar conforme o relatório diário.
 `#treinoemcasa #academiaemcasa #kitdetreino #halteres #achadinhos #tiktokshop` (+ `#publi` se a conta for afiliada)
 
 **Capa:** em_uso
+
+### P29: 14/10 às 23:59 · M. Pergunta noturna (treino de amanhã, sem preço)
+
+**Narração:** Amanhã cedo, qual treino você faria em casa? Com um kit só, dá pra escolher. Halteres... barra... kettlebell... ou apoio pra flexão. O peso é ajustável até quinze quilos. Mais de sete mil vendidos. Comenta qual você escolheria, e segue pra mais achados.
+
+**Cenas:** abertura → seis_em_um → halteres → barra → kettlebell → flexao → peso → em_uso → fechamento
+
+**Arquivos:** `semana-01/P29/roteiro.json`, `semana-01/P29/legenda.txt`
+
+**Legenda:**
+> #publi Amanhã cedo, qual treino você faria em casa? 👇 Halteres, barra, kettlebell ou flexão, tudo num kit 6 em 1 com peso ajustável até 15 kg. Comenta e segue pra mais achados 🧡
+
+`#treinoemcasa #academiaemcasa #kettlebell #halteres #tiktokshop #achadinhos` (+ `#publi` se a conta for afiliada)
+
+**Capa:** seis_em_um
 
 ### P04: 15/10 às 10:00 · L. Segurança e detalhes (novo)
 

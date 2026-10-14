@@ -152,6 +152,64 @@
    "capa": "em_uso"
   },
   {
+   "id": "P29",
+   "dia": 1,
+   "data": "2026-10-14",
+   "hora": "23:59",
+   "angulo": "M. Pergunta noturna (treino de amanhã, sem preço)",
+   "falas": [
+    {
+     "texto": "Amanhã cedo, qual treino você faria em casa?",
+     "cena": "abertura",
+     "id": "01"
+    },
+    {
+     "texto": "Com um kit só, dá pra escolher.",
+     "cena": "seis_em_um",
+     "id": "02"
+    },
+    {
+     "texto": "Halteres...",
+     "cena": "halteres",
+     "id": "03"
+    },
+    {
+     "texto": "barra...",
+     "cena": "barra",
+     "id": "04"
+    },
+    {
+     "texto": "quétoubél...",
+     "cena": "kettlebell",
+     "texto_legivel": "kettlebell...",
+     "id": "05"
+    },
+    {
+     "texto": "ou apoio pra flexão.",
+     "cena": "flexao",
+     "id": "06"
+    },
+    {
+     "texto": "O peso é ajustável até quinze quilos.",
+     "cena": "peso",
+     "id": "07"
+    },
+    {
+     "texto": "Mais de sete mil vendidos.",
+     "cena": "em_uso",
+     "id": "08"
+    },
+    {
+     "texto": "Comenta qual você escolheria, e segue pra mais achados.",
+     "cena": "fechamento",
+     "id": "09"
+    }
+   ],
+   "legenda": "#publi Amanhã cedo, qual treino você faria em casa? 👇 Halteres, barra, kettlebell ou flexão, tudo num kit 6 em 1 com peso ajustável até 15 kg. Comenta e segue pra mais achados 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kettlebell #halteres #tiktokshop #achadinhos",
+   "capa": "seis_em_um"
+  },
+  {
    "id": "P04",
    "dia": 2,
    "data": "2026-10-15",
@@ -1560,7 +1618,8 @@
   "10:00",
   "15:00",
   "18:00",
-  "20:00"
+  "20:00",
+  "23:59"
  ],
- "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00. Em 14/10 o roteiro 'Sem tempo pra ir pra academia?' foi antecipado para 20:00 de hoje, e um post novo (segurança e detalhes) ocupou 15/10 às 10:00. IDs renumerados."
+ "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00. Em 14/10 o roteiro 'Sem tempo pra ir pra academia?' foi antecipado para 20:00 de hoje, e um post novo (segurança e detalhes) ocupou 15/10 às 10:00. IDs renumerados. 23:59 incluído pelo usuário em 14/10, valendo a partir de hoje. IDs ficam fixos (o PC já tem pastas P03 e P04); posts novos recebem o próximo número (P29). Os posts das 23:59 de 15 a 20/10 serão criados pelo preparo diário, com ângulos novos."
 }
