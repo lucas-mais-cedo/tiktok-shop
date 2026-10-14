@@ -54,7 +54,7 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 
 ## Ritmo da semana 1 (14/10 a 21/10/2026)
 
-- 4 posts por dia a partir de 15/10: **10:00, 15:00, 18:00 e 21:30 (horário de Brasília, UTC-3)**. Pedido do usuário em 14/10, repassado pela sessão do PC. Em 14/10 valem ainda o 18:00, o 20:00 e o 23:55 de hoje. Os horários podem mudar com base nos dados (regras em `references/relatorio.md`).
+- A partir de 15/10: **3 posts por dia, 12:00, 18:00 e 21:00 (horário de Brasília, UTC-3)**, provisórios (não há dados confiáveis de vendedores do nicho; testar com as métricas). Séries: "Treino de 5 minutos em casa" (12:00, 1 por dia), "Mito ou verdade" sobre treinar em casa (18:00), e às 21:00 "Achado da semana" aos sábados e demonstração de treino em casa de segunda a sexta. O produto aparece em no máximo 1 de cada 3 posts. Em 14/10 valem ainda o 18:00 (P02, mantido) e os posts cancelados por pedido do usuário (P03 e P29). Os horários podem mudar com base nos dados (regras em `references/relatorio.md`).
 - **Relatório diário** no fim de cada dia (23:20 de Brasília): alcance, retenção e conversão por post e por horário, decisão do dia seguinte.
 - Variar ângulo, gancho e ordem das cenas a cada post: 3 vídeos por dia do mesmo produto, com a mesma voz e as mesmas fotos, viram "conteúdo repetido" se o começo for igual.
 
