@@ -7,50 +7,50 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Quanto custa montar uma academia em casa?",
-   "cena": "abertura",
-   "inverter": true
-  },
-  {
-   "id": "02",
-   "texto": "Com esse seis em um, menos de duzentos reais.",
+   "texto": "Um conjunto só, seis jeitos de treinar.",
    "cena": "seis_em_um"
   },
   {
-   "id": "03",
-   "texto": "Vem halteres...",
+   "id": "02",
+   "texto": "Par de halteres...",
    "cena": "halteres"
   },
   {
-   "id": "04",
-   "texto": "barra extensora...",
+   "id": "03",
+   "texto": "barra...",
    "cena": "barra"
   },
   {
-   "id": "05",
-   "texto": "alças de quétoubél...",
+   "id": "04",
+   "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "alças de kettlebell..."
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "05",
+   "texto": "apoio de flexão...",
+   "cena": "flexao"
   },
   {
    "id": "06",
-   "texto": "e as travas de segurança.",
-   "cena": "rosca"
+   "texto": "e o peso você ajusta, até quinze quilos.",
+   "cena": "peso",
+   "inverter": true
   },
   {
    "id": "07",
-   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+   "texto": "Supino, agachamento, treino de braço, ombro e costas.",
    "cena": "em_uso"
   },
   {
    "id": "08",
-   "texto": "Cento e oitenta e quatro e noventa, e o frete é grátis.",
+   "texto": "Sai por cento e oitenta e quatro reais e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
    "id": "09",
-   "texto": "Segue o perfil pra ver mais achados.",
+   "texto": "Segue pra não perder os próximos achados.",
    "cena": "fechamento"
   }
  ]

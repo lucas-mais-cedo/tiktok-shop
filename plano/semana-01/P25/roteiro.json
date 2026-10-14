@@ -6,46 +6,51 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "texto": "Saiu do trabalho agora?",
-   "cena": "abertura",
-   "id": "01"
+   "id": "01",
+   "texto": "Não tem espaço pra montar academia?",
+   "cena": "pratico"
   },
   {
-   "texto": "O treino pode ser em casa, sem trânsito.",
-   "cena": "em_uso",
-   "id": "02"
+   "id": "02",
+   "texto": "Esse seis em um ocupa pouco espaço.",
+   "cena": "seis_em_um"
   },
   {
-   "texto": "Esse kit é seis em um.",
-   "cena": "seis_em_um",
-   "id": "03"
-  },
-  {
+   "id": "03",
    "texto": "Halteres...",
-   "cena": "halteres",
-   "id": "04"
+   "cena": "halteres"
   },
   {
+   "id": "04",
    "texto": "barra...",
-   "cena": "barra",
-   "id": "05"
+   "cena": "barra"
   },
   {
-   "texto": "e quétoubél.",
+   "id": "05",
+   "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "e kettlebell.",
-   "id": "06"
+   "texto_legivel": "kettlebell..."
   },
   {
-   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
+   "id": "06",
+   "texto": "e apoio de flexão, tudo no mesmo conjunto.",
+   "cena": "flexao"
+  },
+  {
+   "id": "07",
+   "texto": "E o revestimento das anilhas protege o piso.",
+   "cena": "peso"
+  },
+  {
+   "id": "08",
+   "texto": "Cento e oitenta e quatro reais e noventa, com frete grátis.",
    "cena": "preco",
-   "preco": true,
-   "id": "07"
+   "preco": true
   },
   {
-   "texto": "Segue pra ver mais achados de treino em casa.",
-   "cena": "fechamento",
-   "id": "08"
+   "id": "09",
+   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
+   "cena": "fechamento"
   }
  ]
 }

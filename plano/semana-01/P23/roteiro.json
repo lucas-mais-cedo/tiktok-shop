@@ -7,17 +7,17 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
-   "cena": "em_uso"
+   "texto": "Presente pra quem vive dizendo que segunda começa.",
+   "cena": "abertura"
   },
   {
    "id": "02",
-   "texto": "É o seis em um com mais de sete mil vendidos.",
+   "texto": "Um conjunto seis em um pra treinar em casa.",
    "cena": "seis_em_um"
   },
   {
    "id": "03",
-   "texto": "Vira halteres...",
+   "texto": "Halteres...",
    "cena": "halteres"
   },
   {
@@ -38,13 +38,18 @@
   },
   {
    "id": "07",
-   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+   "texto": "O peso é ajustável: começa leve, e aumenta com o tempo.",
+   "cena": "peso"
+  },
+  {
+   "id": "08",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "08",
-   "texto": "Salva pra não esquecer, e segue pra mais achados.",
+   "id": "09",
+   "texto": "Marca essa pessoa aqui nos comentários.",
    "cena": "fechamento"
   }
  ]

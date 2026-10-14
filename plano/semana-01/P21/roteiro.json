@@ -6,40 +6,51 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "texto": "Se fosse treinar hoje em casa, você começaria por qual?",
-   "cena": "seis_em_um",
-   "id": "01"
+   "id": "01",
+   "texto": "Menos de duzentos reais, e frete grátis.",
+   "cena": "abertura"
   },
   {
+   "id": "02",
+   "texto": "Por um conjunto seis em um completo.",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "03",
    "texto": "Halteres...",
-   "cena": "halteres",
-   "id": "02"
+   "cena": "halteres"
   },
   {
+   "id": "04",
    "texto": "barra...",
-   "cena": "barra",
-   "id": "03"
+   "cena": "barra"
   },
   {
+   "id": "05",
    "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell...",
-   "id": "04"
+   "texto_legivel": "kettlebell..."
   },
   {
-   "texto": "ou flexão com apoio?",
-   "cena": "flexao",
-   "id": "05"
+   "id": "06",
+   "texto": "apoio pra flexão...",
+   "cena": "flexao"
   },
   {
-   "texto": "Tudo isso sai de um kit só, com peso até quinze quilos.",
-   "cena": "peso",
-   "id": "06"
+   "id": "07",
+   "texto": "e trava de segurança.",
+   "cena": "rosca"
   },
   {
-   "texto": "Comenta aí qual seria o primeiro, e segue pra mais achados.",
-   "cena": "fechamento",
-   "id": "07"
+   "id": "08",
+   "texto": "Cento e oitenta e quatro reais e noventa.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "09",
+   "texto": "Segue pra não perder os próximos achados.",
+   "cena": "fechamento"
   }
  ]
 }

@@ -7,44 +7,44 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Isso aqui é um par de halteres.",
-   "cena": "halteres"
+   "texto": "Quer começar a treinar em casa, mas não sabe que peso comprar?",
+   "cena": "abertura"
   },
   {
    "id": "02",
-   "texto": "Agora é uma barra.",
-   "cena": "barra"
+   "texto": "Aqui você não precisa escolher.",
+   "cena": "peso"
   },
   {
    "id": "03",
-   "texto": "Agora, um quétoubél.",
-   "cena": "kettlebell",
-   "texto_legivel": "Agora, um kettlebell."
+   "texto": "Começa leve...",
+   "cena": "halteres"
   },
   {
    "id": "04",
-   "texto": "E agora, apoio de flexão.",
-   "cena": "flexao"
-  },
-  {
-   "id": "05",
-   "texto": "Tudo no mesmo conjunto: seis em um.",
-   "cena": "seis_em_um"
-  },
-  {
-   "id": "06",
-   "texto": "Com trava de segurança em cada anilha.",
+   "texto": "e vai rosqueando mais anilhas conforme evolui.",
    "cena": "rosca"
   },
   {
+   "id": "05",
+   "texto": "E ainda vira barra, quétoubél, e apoio de flexão.",
+   "cena": "seis_em_um",
+   "texto_legivel": "E ainda vira barra, kettlebell, e apoio de flexão."
+  },
+  {
+   "id": "06",
+   "texto": "Nota quatro vírgula seis, mais de sete mil vendidos.",
+   "cena": "em_uso"
+  },
+  {
    "id": "07",
-   "texto": "Cento e oitenta e quatro reais e noventa, e frete grátis.",
+   "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
    "id": "08",
-   "texto": "Segue pra mais achados!",
+   "texto": "Segue pra ver mais achados de treino em casa.",
    "cena": "fechamento"
   }
  ]

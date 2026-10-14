@@ -7,44 +7,48 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Você treinaria em casa com isso aqui?",
-   "cena": "seis_em_um"
+   "texto": "Mora em apartamento pequeno?",
+   "cena": "abertura"
   },
   {
    "id": "02",
-   "texto": "São oito anilhas: quatro de dois quilos, e quatro de um e meio.",
-   "cena": "peso"
+   "texto": "Esse seis em um ocupa pouco espaço.",
+   "cena": "seis_em_um"
   },
   {
    "id": "03",
-   "texto": "Duas barras rosqueáveis, e uma barra extensora.",
-   "cena": "barra"
+   "texto": "Monta como halteres...",
+   "cena": "halteres"
   },
   {
    "id": "04",
-   "texto": "Base e alças de quétoubél...",
-   "cena": "kettlebell",
-   "texto_legivel": "Base e alças de kettlebell..."
+   "texto": "como barra...",
+   "cena": "barra"
   },
   {
    "id": "05",
-   "texto": "que também viram apoio de flexão.",
-   "cena": "flexao"
+   "texto": "ou como quétoubél.",
+   "cena": "kettlebell",
+   "texto_legivel": "ou como kettlebell."
   },
   {
    "id": "06",
-   "texto": "E as travas de segurança.",
-   "cena": "rosca"
+   "texto": "As anilhas têm revestimento que protege o piso.",
+   "cena": "peso"
   },
   {
    "id": "07",
-   "texto": "Tudo por cento e oitenta e quatro e noventa, com frete grátis.",
-   "cena": "preco",
-   "preco": true
+   "texto": "E as travas seguram tudo no lugar.",
+   "cena": "rosca"
   },
   {
    "id": "08",
-   "texto": "Responde aqui nos comentários, e segue pra mais achados.",
+   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "cena": "em_uso"
+  },
+  {
+   "id": "09",
+   "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
    "cena": "fechamento"
   }
  ]

@@ -7,54 +7,50 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Pagando academia e não indo?",
-   "cena": "em_uso"
+   "texto": "Quanto custa montar uma academia em casa?",
+   "cena": "abertura",
+   "inverter": true
   },
   {
    "id": "02",
-   "texto": "Que tal trazer a academia pra casa?",
-   "cena": "abertura"
-  },
-  {
-   "id": "03",
-   "texto": "Esse conjunto é seis em um.",
+   "texto": "Com esse seis em um, menos de duzentos reais.",
    "cena": "seis_em_um"
   },
   {
-   "id": "04",
-   "texto": "Halteres...",
+   "id": "03",
+   "texto": "Vem halteres...",
    "cena": "halteres"
   },
   {
-   "id": "05",
-   "texto": "barra...",
+   "id": "04",
+   "texto": "barra extensora...",
    "cena": "barra"
   },
   {
-   "id": "06",
-   "texto": "quétoubél...",
+   "id": "05",
+   "texto": "alças de quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "alças de kettlebell..."
+  },
+  {
+   "id": "06",
+   "texto": "e as travas de segurança.",
+   "cena": "rosca"
   },
   {
    "id": "07",
-   "texto": "e apoio de flexão.",
-   "cena": "flexao"
+   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+   "cena": "em_uso"
   },
   {
    "id": "08",
-   "texto": "Sem mensalidade, sem fila de aparelho, no seu horário.",
-   "cena": "pratico"
-  },
-  {
-   "id": "09",
-   "texto": "Cento e oitenta e quatro reais e noventa, uma vez só.",
+   "texto": "Cento e oitenta e quatro e noventa, e o frete é grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "10",
-   "texto": "Salva pra lembrar, e segue pra mais achados.",
+   "id": "09",
+   "texto": "Segue o perfil pra ver mais achados.",
    "cena": "fechamento"
   }
  ]

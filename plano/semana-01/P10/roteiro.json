@@ -6,50 +6,41 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "id": "01",
-   "texto": "Mora em apartamento pequeno?",
-   "cena": "abertura"
+   "texto": "Nunca treinou com peso?",
+   "cena": "abertura",
+   "id": "01"
   },
   {
-   "id": "02",
-   "texto": "Esse seis em um ocupa pouco espaço.",
-   "cena": "seis_em_um"
+   "texto": "Com esse kit, dá pra começar leve.",
+   "cena": "halteres",
+   "id": "02"
   },
   {
-   "id": "03",
-   "texto": "Monta como halteres...",
-   "cena": "halteres"
+   "texto": "As anilhas rosqueiam na barra, com trava.",
+   "cena": "rosca",
+   "id": "03"
   },
   {
-   "id": "04",
-   "texto": "como barra...",
-   "cena": "barra"
+   "texto": "E o peso vai subindo até quinze quilos.",
+   "cena": "peso",
+   "id": "04"
   },
   {
-   "id": "05",
-   "texto": "ou como quétoubél.",
-   "cena": "kettlebell",
-   "texto_legivel": "ou como kettlebell."
+   "texto": "O mesmo conjunto vira barra, quétoubél, e apoio de flexão.",
+   "cena": "seis_em_um",
+   "texto_legivel": "O mesmo conjunto vira barra, kettlebell, e apoio de flexão.",
+   "id": "05"
   },
   {
-   "id": "06",
-   "texto": "As anilhas têm revestimento que protege o piso.",
-   "cena": "peso"
+   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+   "cena": "preco",
+   "preco": true,
+   "id": "06"
   },
   {
-   "id": "07",
-   "texto": "E as travas seguram tudo no lugar.",
-   "cena": "rosca"
-  },
-  {
-   "id": "08",
-   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
-   "cena": "em_uso"
-  },
-  {
-   "id": "09",
-   "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
-   "cena": "fechamento"
+   "texto": "Salva pra não esquecer, e segue pra mais achados.",
+   "cena": "fechamento",
+   "id": "07"
   }
  ]
 }

@@ -88,9 +88,9 @@
   },
   {
    "id": "P03",
-   "dia": 2,
-   "data": "2026-10-15",
-   "hora": "10:00",
+   "dia": 1,
+   "data": "2026-10-14",
+   "hora": "20:00",
    "angulo": "B. Rotina corrida",
    "falas": [
     {
@@ -155,6 +155,54 @@
    "id": "P04",
    "dia": 2,
    "data": "2026-10-15",
+   "hora": "10:00",
+   "angulo": "L. Segurança e detalhes (novo)",
+   "falas": [
+    {
+     "texto": "Antes de comprar peso, olha esse detalhe.",
+     "cena": "peso",
+     "id": "01"
+    },
+    {
+     "texto": "As anilhas rosqueiam na barra, e as travas seguram tudo no lugar.",
+     "cena": "rosca",
+     "id": "02"
+    },
+    {
+     "texto": "O revestimento protege o piso.",
+     "cena": "abertura",
+     "id": "03"
+    },
+    {
+     "texto": "Dá pra começar leve, e ir até quinze quilos.",
+     "cena": "halteres",
+     "id": "04"
+    },
+    {
+     "texto": "E o mesmo kit vira barra, quétoubél, e apoio de flexão.",
+     "cena": "seis_em_um",
+     "texto_legivel": "E o mesmo kit vira barra, kettlebell, e apoio de flexão.",
+     "id": "05"
+    },
+    {
+     "texto": "Mais de sete mil vendidos.",
+     "cena": "em_uso",
+     "id": "06"
+    },
+    {
+     "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
+     "cena": "fechamento",
+     "id": "07"
+    }
+   ],
+   "legenda": "Antes de comprar peso, confere o detalhe: anilhas que rosqueiam, travas de segurança e revestimento que protege o piso 🔒 Kit 6 em 1 com peso ajustável até 15 kg. Salva e segue pra mais achados 🧡",
+   "hashtags": "#treinoemcasa #academiaemcasa #kitdetreino #tiktokshop #achadinhos",
+   "capa": "peso"
+  },
+  {
+   "id": "P05",
+   "dia": 2,
+   "data": "2026-10-15",
    "hora": "15:00",
    "angulo": "E. Pergunta (puxa comentário)",
    "falas": [
@@ -206,7 +254,7 @@
    "capa": "seis_em_um"
   },
   {
-   "id": "P05",
+   "id": "P06",
    "dia": 2,
    "data": "2026-10-15",
    "hora": "18:00",
@@ -265,7 +313,7 @@
    "capa": "em_uso"
   },
   {
-   "id": "P06",
+   "id": "P07",
    "dia": 2,
    "data": "2026-10-15",
    "hora": "20:00",
@@ -325,7 +373,7 @@
    "capa": "seis_em_um"
   },
   {
-   "id": "P07",
+   "id": "P08",
    "dia": 3,
    "data": "2026-10-16",
    "hora": "10:00",
@@ -385,7 +433,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P08",
+   "id": "P09",
    "dia": 3,
    "data": "2026-10-16",
    "hora": "15:00",
@@ -449,7 +497,7 @@
    "capa": "em_uso"
   },
   {
-   "id": "P09",
+   "id": "P10",
    "dia": 3,
    "data": "2026-10-16",
    "hora": "18:00",
@@ -498,7 +546,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P10",
+   "id": "P11",
    "dia": 3,
    "data": "2026-10-16",
    "hora": "20:00",
@@ -556,7 +604,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P11",
+   "id": "P12",
    "dia": 4,
    "data": "2026-10-17",
    "hora": "10:00",
@@ -610,7 +658,7 @@
    "capa": "seis_em_um"
   },
   {
-   "id": "P12",
+   "id": "P13",
    "dia": 4,
    "data": "2026-10-17",
    "hora": "15:00",
@@ -670,7 +718,7 @@
    "capa": "em_uso"
   },
   {
-   "id": "P13",
+   "id": "P14",
    "dia": 4,
    "data": "2026-10-17",
    "hora": "18:00",
@@ -723,7 +771,7 @@
    "capa": "pratico"
   },
   {
-   "id": "P14",
+   "id": "P15",
    "dia": 4,
    "data": "2026-10-17",
    "hora": "20:00",
@@ -783,7 +831,7 @@
    "capa": "pratico"
   },
   {
-   "id": "P15",
+   "id": "P16",
    "dia": 5,
    "data": "2026-10-18",
    "hora": "10:00",
@@ -838,7 +886,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P16",
+   "id": "P17",
    "dia": 5,
    "data": "2026-10-18",
    "hora": "15:00",
@@ -893,7 +941,7 @@
    "capa": "halteres"
   },
   {
-   "id": "P17",
+   "id": "P18",
    "dia": 5,
    "data": "2026-10-18",
    "hora": "18:00",
@@ -953,7 +1001,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P18",
+   "id": "P19",
    "dia": 5,
    "data": "2026-10-18",
    "hora": "20:00",
@@ -1008,7 +1056,7 @@
    "capa": "seis_em_um"
   },
   {
-   "id": "P19",
+   "id": "P20",
    "dia": 6,
    "data": "2026-10-19",
    "hora": "10:00",
@@ -1073,7 +1121,7 @@
    "capa": "pratico"
   },
   {
-   "id": "P20",
+   "id": "P21",
    "dia": 6,
    "data": "2026-10-19",
    "hora": "15:00",
@@ -1133,7 +1181,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P21",
+   "id": "P22",
    "dia": 6,
    "data": "2026-10-19",
    "hora": "18:00",
@@ -1182,7 +1230,7 @@
    "capa": "seis_em_um"
   },
   {
-   "id": "P22",
+   "id": "P23",
    "dia": 6,
    "data": "2026-10-19",
    "hora": "20:00",
@@ -1242,7 +1290,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P23",
+   "id": "P24",
    "dia": 7,
    "data": "2026-10-20",
    "hora": "10:00",
@@ -1297,7 +1345,7 @@
    "capa": "em_uso"
   },
   {
-   "id": "P24",
+   "id": "P25",
    "dia": 7,
    "data": "2026-10-20",
    "hora": "15:00",
@@ -1357,7 +1405,7 @@
    "capa": "pratico"
   },
   {
-   "id": "P25",
+   "id": "P26",
    "dia": 7,
    "data": "2026-10-20",
    "hora": "18:00",
@@ -1412,7 +1460,7 @@
    "capa": "abertura"
   },
   {
-   "id": "P26",
+   "id": "P27",
    "dia": 7,
    "data": "2026-10-20",
    "hora": "20:00",
@@ -1462,7 +1510,7 @@
    "capa": "halteres"
   },
   {
-   "id": "P27",
+   "id": "P28",
    "dia": 8,
    "data": "2026-10-21",
    "hora": "10:00",
@@ -1519,5 +1567,5 @@
   "18:00",
   "20:00"
  ],
- "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00."
+ "nota_horarios": "18:00 incluído a pedido do usuário em 14/10, valendo a partir de 15/10 (no dia 14 o Editor de Videos já estava com o P02 das 20:00). P02 foi agendado pelo usuário para 14/10 às 18:00 (no lugar das 20:00); hoje não há post às 20:00. Em 14/10 o roteiro 'Sem tempo pra ir pra academia?' foi antecipado para 20:00 de hoje, e um post novo (segurança e detalhes) ocupou 15/10 às 10:00. IDs renumerados."
 }

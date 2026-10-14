@@ -6,41 +6,56 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "texto": "Nunca treinou com peso?",
-   "cena": "abertura",
-   "id": "01"
+   "id": "01",
+   "texto": "Pagando academia e não indo?",
+   "cena": "em_uso"
   },
   {
-   "texto": "Com esse kit, dá pra começar leve.",
-   "cena": "halteres",
-   "id": "02"
+   "id": "02",
+   "texto": "Que tal trazer a academia pra casa?",
+   "cena": "abertura"
   },
   {
-   "texto": "As anilhas rosqueiam na barra, com trava.",
-   "cena": "rosca",
-   "id": "03"
+   "id": "03",
+   "texto": "Esse conjunto é seis em um.",
+   "cena": "seis_em_um"
   },
   {
-   "texto": "E o peso vai subindo até quinze quilos.",
-   "cena": "peso",
-   "id": "04"
+   "id": "04",
+   "texto": "Halteres...",
+   "cena": "halteres"
   },
   {
-   "texto": "O mesmo conjunto vira barra, quétoubél, e apoio de flexão.",
-   "cena": "seis_em_um",
-   "texto_legivel": "O mesmo conjunto vira barra, kettlebell, e apoio de flexão.",
-   "id": "05"
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
   },
   {
-   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
+   "id": "07",
+   "texto": "e apoio de flexão.",
+   "cena": "flexao"
+  },
+  {
+   "id": "08",
+   "texto": "Sem mensalidade, sem fila de aparelho, no seu horário.",
+   "cena": "pratico"
+  },
+  {
+   "id": "09",
+   "texto": "Cento e oitenta e quatro reais e noventa, uma vez só.",
    "cena": "preco",
-   "preco": true,
-   "id": "06"
+   "preco": true
   },
   {
-   "texto": "Salva pra não esquecer, e segue pra mais achados.",
-   "cena": "fechamento",
-   "id": "07"
+   "id": "10",
+   "texto": "Salva pra lembrar, e segue pra mais achados.",
+   "cena": "fechamento"
   }
  ]
 }

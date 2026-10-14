@@ -6,51 +6,46 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "texto": "Treino em casa, sem mensalidade e sem fila.",
-   "cena": "abertura",
-   "id": "01"
+   "id": "01",
+   "texto": "Isso aqui é um par de halteres.",
+   "cena": "halteres"
   },
   {
-   "texto": "Um kit só, seis em um.",
-   "cena": "seis_em_um",
-   "id": "02"
+   "id": "02",
+   "texto": "Agora é uma barra.",
+   "cena": "barra"
   },
   {
-   "texto": "Halteres...",
-   "cena": "halteres",
-   "id": "03"
-  },
-  {
-   "texto": "barra...",
-   "cena": "barra",
-   "id": "04"
-  },
-  {
-   "texto": "quétoubél...",
+   "id": "03",
+   "texto": "Agora, um quétoubél.",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell...",
-   "id": "05"
+   "texto_legivel": "Agora, um kettlebell."
   },
   {
-   "texto": "e apoio pra flexão.",
-   "cena": "flexao",
-   "id": "06"
+   "id": "04",
+   "texto": "E agora, apoio de flexão.",
+   "cena": "flexao"
   },
   {
-   "texto": "Peso ajustável até quinze quilos.",
-   "cena": "peso",
-   "id": "07"
+   "id": "05",
+   "texto": "Tudo no mesmo conjunto: seis em um.",
+   "cena": "seis_em_um"
   },
   {
-   "texto": "Cento e oitenta e quatro e noventa, frete grátis.",
+   "id": "06",
+   "texto": "Com trava de segurança em cada anilha.",
+   "cena": "rosca"
+  },
+  {
+   "id": "07",
+   "texto": "Cento e oitenta e quatro reais e noventa, e frete grátis.",
    "cena": "preco",
-   "preco": true,
-   "id": "08"
+   "preco": true
   },
   {
-   "texto": "Comenta qual você usaria primeiro, e segue pra mais achados.",
-   "cena": "fechamento",
-   "id": "09"
+   "id": "08",
+   "texto": "Segue pra mais achados!",
+   "cena": "fechamento"
   }
  ]
 }

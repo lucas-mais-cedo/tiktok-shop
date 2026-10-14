@@ -6,45 +6,52 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "texto": "Não precisa de um quarto inteiro pra treinar.",
-   "cena": "pratico",
-   "id": "01"
+   "id": "01",
+   "texto": "Esse aqui já passou de sete mil vendidos.",
+   "cena": "em_uso"
   },
   {
-   "texto": "Esse conjunto seis em um ocupa pouco espaço.",
-   "cena": "seis_em_um",
-   "id": "02"
+   "id": "02",
+   "texto": "É o conjunto seis em um pra treinar em casa.",
+   "cena": "seis_em_um"
   },
   {
-   "texto": "E vira halteres...",
-   "cena": "halteres",
-   "id": "03"
+   "id": "03",
+   "texto": "Halteres...",
+   "cena": "halteres"
   },
   {
+   "id": "04",
    "texto": "barra...",
-   "cena": "barra",
-   "id": "04"
+   "cena": "barra"
   },
   {
-   "texto": "ou quétoubél.",
+   "id": "05",
+   "texto": "quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "ou kettlebell.",
-   "id": "05"
+   "texto_legivel": "kettlebell..."
   },
   {
-   "texto": "As anilhas têm revestimento que protege o piso.",
-   "cena": "peso",
-   "id": "06"
+   "id": "06",
+   "texto": "e apoio de flexão.",
+   "cena": "flexao"
   },
   {
-   "texto": "Mais de sete mil vendidos.",
-   "cena": "em_uso",
-   "id": "07"
+   "id": "07",
+   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
+   "cena": "abertura",
+   "inverter": true
   },
   {
+   "id": "08",
+   "texto": "E sai por cento e oitenta e quatro reais e noventa, frete grátis.",
+   "cena": "preco",
+   "preco": true
+  },
+  {
+   "id": "09",
    "texto": "Segue o perfil pra ver mais achados de treino em casa.",
-   "cena": "fechamento",
-   "id": "08"
+   "cena": "fechamento"
   }
  ]
 }

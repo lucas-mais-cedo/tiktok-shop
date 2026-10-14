@@ -7,44 +7,50 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Quer começar a treinar em casa, mas não sabe que peso comprar?",
-   "cena": "abertura"
+   "texto": "Chegou cansado, e sem pique pra academia?",
+   "cena": "pratico"
   },
   {
    "id": "02",
-   "texto": "Aqui você não precisa escolher.",
-   "cena": "peso"
-  },
-  {
-   "id": "03",
-   "texto": "Começa leve...",
-   "cena": "halteres"
-  },
-  {
-   "id": "04",
-   "texto": "e vai rosqueando mais anilhas conforme evolui.",
-   "cena": "rosca"
-  },
-  {
-   "id": "05",
-   "texto": "E ainda vira barra, quétoubél, e apoio de flexão.",
-   "cena": "seis_em_um",
-   "texto_legivel": "E ainda vira barra, kettlebell, e apoio de flexão."
-  },
-  {
-   "id": "06",
-   "texto": "Nota quatro vírgula seis, mais de sete mil vendidos.",
+   "texto": "Treino em casa resolve.",
    "cena": "em_uso"
   },
   {
+   "id": "03",
+   "texto": "Com esse seis em um, você muda de exercício sem sair da sala:",
+   "cena": "seis_em_um"
+  },
+  {
+   "id": "04",
+   "texto": "halteres...",
+   "cena": "halteres"
+  },
+  {
+   "id": "05",
+   "texto": "barra...",
+   "cena": "barra"
+  },
+  {
+   "id": "06",
+   "texto": "quétoubél...",
+   "cena": "kettlebell",
+   "texto_legivel": "kettlebell..."
+  },
+  {
    "id": "07",
+   "texto": "Peso ajustável até quinze quilos.",
+   "cena": "peso",
+   "inverter": true
+  },
+  {
+   "id": "08",
    "texto": "Cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "08",
-   "texto": "Segue pra ver mais achados de treino em casa.",
+   "id": "09",
+   "texto": "Salva pra não esquecer, e segue pra mais.",
    "cena": "fechamento"
   }
  ]

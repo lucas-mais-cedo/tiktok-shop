@@ -6,46 +6,40 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "id": "01",
-   "texto": "Halter, barra ou quétoubél: qual você usaria primeiro?",
+   "texto": "Antes de comprar peso, olha esse detalhe.",
+   "cena": "peso",
+   "id": "01"
+  },
+  {
+   "texto": "As anilhas rosqueiam na barra, e as travas seguram tudo no lugar.",
+   "cena": "rosca",
+   "id": "02"
+  },
+  {
+   "texto": "O revestimento protege o piso.",
    "cena": "abertura",
-   "texto_legivel": "Halter, barra ou kettlebell: qual você usaria primeiro?"
+   "id": "03"
   },
   {
-   "id": "02",
-   "texto": "Nesse conjunto, você nem precisa escolher.",
-   "cena": "halteres"
+   "texto": "Dá pra começar leve, e ir até quinze quilos.",
+   "cena": "halteres",
+   "id": "04"
   },
   {
-   "id": "03",
-   "texto": "É seis em um.",
-   "cena": "seis_em_um"
+   "texto": "E o mesmo kit vira barra, quétoubél, e apoio de flexão.",
+   "cena": "seis_em_um",
+   "texto_legivel": "E o mesmo kit vira barra, kettlebell, e apoio de flexão.",
+   "id": "05"
   },
   {
-   "id": "04",
-   "texto": "Rosqueia as anilhas, e vira barra...",
-   "cena": "barra"
+   "texto": "Mais de sete mil vendidos.",
+   "cena": "em_uso",
+   "id": "06"
   },
   {
-   "id": "05",
-   "texto": "monta a base, e vira quétoubél...",
-   "cena": "kettlebell",
-   "texto_legivel": "monta a base, e vira kettlebell..."
-  },
-  {
-   "id": "06",
-   "texto": "e as alças ainda viram apoio de flexão.",
-   "cena": "flexao"
-  },
-  {
-   "id": "07",
-   "texto": "Tudo com trava de segurança.",
-   "cena": "rosca"
-  },
-  {
-   "id": "08",
-   "texto": "Comenta qual seria o seu primeiro treino, e segue pra ver mais.",
-   "cena": "fechamento"
+   "texto": "Salva esse vídeo, e segue pra mais achados de treino em casa.",
+   "cena": "fechamento",
+   "id": "07"
   }
  ]
 }

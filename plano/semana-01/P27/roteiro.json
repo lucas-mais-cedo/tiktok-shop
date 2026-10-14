@@ -7,29 +7,29 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Isso aqui é um quétoubél.",
-   "cena": "kettlebell",
-   "texto_legivel": "Isso aqui é um kettlebell."
-  },
-  {
-   "id": "02",
-   "texto": "Rosqueia diferente, e vira um par de halteres.",
+   "texto": "Primeira vez treinando em casa?",
    "cena": "halteres"
   },
   {
+   "id": "02",
+   "texto": "Começa com pouco peso, e vai aumentando.",
+   "cena": "peso"
+  },
+  {
    "id": "03",
-   "texto": "Junta tudo, e vira barra.",
-   "cena": "barra"
+   "texto": "É só rosquear mais anilhas, e travar.",
+   "cena": "rosca"
   },
   {
    "id": "04",
-   "texto": "As alças viram apoio de flexão.",
-   "cena": "flexao"
+   "texto": "E o mesmo conjunto vira barra, quétoubél, e apoio de flexão.",
+   "cena": "seis_em_um",
+   "texto_legivel": "E o mesmo conjunto vira barra, kettlebell, e apoio de flexão."
   },
   {
    "id": "05",
-   "texto": "Seis em um, com peso ajustável até quinze quilos.",
-   "cena": "seis_em_um"
+   "texto": "Mais de sete mil vendidos, nota quatro vírgula seis.",
+   "cena": "em_uso"
   },
   {
    "id": "06",
@@ -39,7 +39,7 @@
   },
   {
    "id": "07",
-   "texto": "Segue pra mais achados!",
+   "texto": "Segue pra ver mais achados de treino em casa.",
    "cena": "fechamento"
   }
  ]

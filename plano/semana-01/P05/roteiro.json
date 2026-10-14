@@ -6,51 +6,46 @@
  "verificado_em": "2026-10-14",
  "falas": [
   {
-   "texto": "Por que esse kit já vendeu mais de sete mil?",
-   "cena": "em_uso",
-   "id": "01"
+   "id": "01",
+   "texto": "Halter, barra ou quétoubél: qual você usaria primeiro?",
+   "cena": "abertura",
+   "texto_legivel": "Halter, barra ou kettlebell: qual você usaria primeiro?"
   },
   {
-   "texto": "Porque é seis em um.",
-   "cena": "seis_em_um",
-   "id": "02"
+   "id": "02",
+   "texto": "Nesse conjunto, você nem precisa escolher.",
+   "cena": "halteres"
   },
   {
-   "texto": "Vira halteres...",
-   "cena": "halteres",
-   "id": "03"
+   "id": "03",
+   "texto": "É seis em um.",
+   "cena": "seis_em_um"
   },
   {
-   "texto": "barra...",
-   "cena": "barra",
-   "id": "04"
+   "id": "04",
+   "texto": "Rosqueia as anilhas, e vira barra...",
+   "cena": "barra"
   },
   {
-   "texto": "quétoubél...",
+   "id": "05",
+   "texto": "monta a base, e vira quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell...",
-   "id": "05"
+   "texto_legivel": "monta a base, e vira kettlebell..."
   },
   {
-   "texto": "e apoio pra flexão.",
-   "cena": "flexao",
-   "id": "06"
+   "id": "06",
+   "texto": "e as alças ainda viram apoio de flexão.",
+   "cena": "flexao"
   },
   {
-   "texto": "O peso é ajustável até quinze quilos.",
-   "cena": "peso",
-   "id": "07"
+   "id": "07",
+   "texto": "Tudo com trava de segurança.",
+   "cena": "rosca"
   },
   {
-   "texto": "E sai por cento e oitenta e quatro e noventa, com frete grátis.",
-   "cena": "preco",
-   "preco": true,
-   "id": "08"
-  },
-  {
-   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
-   "cena": "fechamento",
-   "id": "09"
+   "id": "08",
+   "texto": "Comenta qual seria o seu primeiro treino, e segue pra ver mais.",
+   "cena": "fechamento"
   }
  ]
 }

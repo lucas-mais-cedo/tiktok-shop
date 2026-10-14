@@ -7,50 +7,44 @@
  "falas": [
   {
    "id": "01",
-   "texto": "Esse aqui já passou de sete mil vendidos.",
-   "cena": "em_uso"
-  },
-  {
-   "id": "02",
-   "texto": "É o conjunto seis em um pra treinar em casa.",
+   "texto": "Você treinaria em casa com isso aqui?",
    "cena": "seis_em_um"
   },
   {
-   "id": "03",
-   "texto": "Halteres...",
-   "cena": "halteres"
+   "id": "02",
+   "texto": "São oito anilhas: quatro de dois quilos, e quatro de um e meio.",
+   "cena": "peso"
   },
   {
-   "id": "04",
-   "texto": "barra...",
+   "id": "03",
+   "texto": "Duas barras rosqueáveis, e uma barra extensora.",
    "cena": "barra"
   },
   {
-   "id": "05",
-   "texto": "quétoubél...",
+   "id": "04",
+   "texto": "Base e alças de quétoubél...",
    "cena": "kettlebell",
-   "texto_legivel": "kettlebell..."
+   "texto_legivel": "Base e alças de kettlebell..."
   },
   {
-   "id": "06",
-   "texto": "e apoio de flexão.",
+   "id": "05",
+   "texto": "que também viram apoio de flexão.",
    "cena": "flexao"
   },
   {
-   "id": "07",
-   "texto": "Nota quatro vírgula seis, com mais de mil avaliações.",
-   "cena": "abertura",
-   "inverter": true
+   "id": "06",
+   "texto": "E as travas de segurança.",
+   "cena": "rosca"
   },
   {
-   "id": "08",
-   "texto": "E sai por cento e oitenta e quatro reais e noventa, frete grátis.",
+   "id": "07",
+   "texto": "Tudo por cento e oitenta e quatro e noventa, com frete grátis.",
    "cena": "preco",
    "preco": true
   },
   {
-   "id": "09",
-   "texto": "Segue o perfil pra ver mais achados de treino em casa.",
+   "id": "08",
+   "texto": "Responde aqui nos comentários, e segue pra mais achados.",
    "cena": "fechamento"
   }
  ]
