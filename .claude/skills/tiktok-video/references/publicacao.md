@@ -6,7 +6,8 @@
 
 Como a nuvem entrega cada pacote:
 1. `send_message` para a sessão do PC (use `priority: "later"` para não interromper o que ela estiver fazendo), com: post, horário, como gerar ou onde está o vídeo, legenda + hashtags e o checklist abaixo. A autorização do usuário ("publique pela sessão claude do meu PC") vai citada; a sessão do PC pode confirmar com ele antes de publicar.
-2. Vídeo: enquanto a nuvem não baixar as fotos do anúncio, a sessão do PC gera com `make_post.py` na cópia do repositório em `M:\(tiktok shop)\tiktok-shop-main` (fotos em `M:\(tiktok shop)\video-kit-6-em-1\fotos-anuncio`). Se o repositório estiver privado, mande o `roteiro.json` e a legenda no corpo da mensagem.
+2. Vídeo: enquanto a nuvem não baixar as fotos do anúncio, a sessão do PC gera o vídeo com os **scripts locais dela** (`M:\(tiktok shop)\video-kit-6-em-1\scripts`: tts.py, build_audio.py, render.py, mux.py; fotos em `fotos-anuncio`) e faz a legenda na tela com Whisper + ffmpeg locais. **A proteção de segurança do PC bloqueia download do GitHub** (14/10): mande tudo no corpo da mensagem (falas com a grafia para a voz, ordem das cenas pelos nomes do `timeline.json` original do PC, texto do post, estilo da legenda). Mapa de cenas: `abertura`=A_gancho, `seis_em_um`=B_6em1, `halteres`=C_halteres, `barra`=D_barra, `kettlebell`=E_kettle, `flexao`=F_flexao, `peso`=G1_peso, `rosca`=G2_rosca, `em_uso`=H_prova, `preco`=I_preco, `pratico`=J_pratico, `fechamento`=K_cta.
+   - **Fuso:** no PC, `TZ=America/Sao_Paulo date` (Git Bash) devolve UTC. Sempre escreva o horário em Brasília **e** em UTC na mensagem (Brasília = UTC−3).
 3. A sessão do PC não tem `send_message`: ela escreve o resultado como resposta final. Ler com `list_events` (kinds `assistant`) e registrar o link em `metricas/posts.csv`.
 4. Se o PC estiver desligado ou a sessão desconectada, avisar o usuário no chat com o pacote pronto para ele postar pelo celular.
 
