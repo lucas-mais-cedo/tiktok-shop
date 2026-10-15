@@ -19,7 +19,7 @@ Pedido do usuário em 14/10: "Cheque e responda as DMs 1 vez a cada 2 horas, com
 - **Como:** a cada horário, a nuvem manda à sessão do PC um pedido curto. A sessão do PC olha:
   - Mensagens, incluindo "Solicitações de mensagem" (de quem não segue a conta);
   - comentários novos dos vídeos.
-- **Comentários:** a sessão do PC só lê e conta. Responder ou ocultar depende do ok do usuário dado na própria sessão do PC. Dúvida sobre o produto ganha um rascunho de 1 frase, **sem link**: o link vai só por DM. Política completa em `conta-e-bio.md`.
+- **Comentários:** a sessão do PC só lê e conta. Desde 14/10 (noite), o usuário responde os comentários pessoalmente. A sessão do PC não rascunha nem responde comentários, só conta e encaminha dúvidas. Política completa em `conta-e-bio.md`.
 - **Prioridade:** publicar o post do horário vem antes do ciclo.
 - **Retorno:** a sessão do PC manda à sessão da nuvem "Social Media" (SendMessage) uma linha só com contagens: `Ciclo DM HH:MM — DMs novas X · rascunhos para o usuário X · pendentes X · encaminhadas ao usuário X · comentários novos X · avisos do TikTok: sim/não`.
 - **Parar:** se aparecer aviso de atividade incomum ou de limite, os ciclos param até o usuário decidir.
