@@ -55,8 +55,15 @@ Skill de gerente de social media da conta **@asadelta.shop** (TikTok Shop Brasil
 ## Ritmo da semana 1 (14/10 a 21/10/2026)
 
 - A partir de 15/10: **3 posts por dia, 12:00, 18:00 e 21:00 (horário de Brasília, UTC-3)**, provisórios (não há dados confiáveis de vendedores do nicho; testar com as métricas). Séries: "Treino de 5 minutos em casa" (12:00, 1 por dia), "Mito ou verdade" sobre treinar em casa (18:00), e às 21:00 "Achado da semana" aos sábados e demonstração de treino em casa de segunda a sexta. O produto aparece em no máximo 1 de cada 3 posts. Em 14/10 valem ainda o 18:00 (P02, mantido) e os posts cancelados por pedido do usuário (P03 e P29). Os horários podem mudar com base nos dados (regras em `references/relatorio.md`).
-- **Relatório diário** no fim de cada dia (23:20 de Brasília): alcance, retenção e conversão por post e por horário, decisão do dia seguinte.
+- **Relatório a cada 5 dias** (pedido do usuário em 15/10, substitui o relatório diário): ciclo 1 de 14 a 18/10, fechamento em 18/10 às 23:20 de Brasília; ciclo 2 de 19 a 23/10, fechamento em 23/10. Traz o ranking dos vídeos que mais performaram no ciclo, o que se repete nos vencedores, o que não performou e a recomendação do próximo ciclo. Nenhum outro ciclo de análise ou mensagem periódica sem pedido do usuário.
 - Variar ângulo, gancho e ordem das cenas a cada post: 3 vídeos por dia do mesmo produto, com a mesma voz e as mesmas fotos, viram "conteúdo repetido" se o começo for igual.
+
+## Direção atual (15/10/2026, pedido do usuário)
+
+- **Personagens:** o **Mascote** (já em uso) fala de temas como "mitos ou verdades sobre fitness em casa", "o que é calistenia?" e tutoriais como "como fabricar o seu próprio peso de academia para treinar em casa". Os **Treinadores** (2 personagens em criação com o Designer Gráfico) apresentam as dicas de exercício. Até a arte e a voz dos Treinadores serem aprovadas pelo usuário, não os coloque em vídeo.
+- **Alerta de profissional de educação física:** só quando o contexto fizer sentido, ou seja, em exercícios com mais risco de lesão (carga, impacto, movimento de coluna, alta intensidade). Não é obrigatório em todos os vídeos.
+- **"Em alta" (trilha):** o conceito será definido depois pelo usuário. Até lá, escolha a trilha da aba "Para você" com uso comercial e registre o nome, sem bloquear a publicação por causa disso.
+- **Publicação:** nenhuma publicação ou agendamento sem o ok da nuvem e do usuário, salvo ordem direta nova do usuário.
 
 ## Referências
 
