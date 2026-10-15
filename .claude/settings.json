@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__TransformPipe__tp_update_document"
+    ]
+  }
+}
