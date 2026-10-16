@@ -14,7 +14,7 @@ Fórmula usada em vários textos: **Agente = Modelo + Harness**.
 |---|---|---|
 | [Anthropic, "Harness design for long-running apps"](https://www.anthropic.com/engineering/harness-design-long-running-apps) | Post oficial | Lido direto |
 | [Anthropic, "Building effective agents"](https://www.anthropic.com/engineering/building-effective-agents) | Post oficial | Lido direto |
-| [Böckeler / Fowler, harness engineering](https://martinfowler.com/articles/harness-engineering.html) | Artigo de referência | Não consegui abrir (domínio inacessível pelo proxy). Conteúdo só por resumos secundários |
+| [Böckeler, harness engineering for coding agent users (martinfowler.com)](https://martinfowler.com/articles/harness-engineering.html) | Artigo de referência | Lido por completo, em imagens enviadas pelo usuário (15 partes) |
 | [arXiv 2606.20683, survey sobre harness](https://arxiv.org/pdf/2606.20683) | Survey acadêmico | Só o resumo nas buscas. Não lido na íntegra |
 
 Blogs e agregadores (glossários, SEO, cursos) foram usados só como pista. Números e limites que aparecem neles (por exemplo, "gatilho de compactação em 40%") não são confirmados pela Anthropic e não devem orientar decisões.
@@ -36,10 +36,46 @@ Blogs e agregadores (glossários, SEO, cursos) foram usados só como pista. Núm
 - Comece simples; acrescente complexidade só com evidência. Leia os rastros do modelo em problemas reais e ajuste contra eles.
 - Resultado citado: uma execução solo de 20 minutos (US$ 9) produziu um jogo quebrado; o harness completo (6 horas, US$ 200) produziu um jogo jogável. O avaliador vale o custo em tarefas que o modelo não resolve bem sozinho; com modelos mais novos, ele pode ser simplificado.
 
-**Böckeler / Fowler (via resumos secundários, não verificado na fonte):**
-- Modelo de controle: **guias** (feedforward, antes da ação) e **sensores** (feedback, depois da ação).
-- Cada controle pode ser **computacional** (determinístico e rápido: linter, verificação de tipos, testes) ou **inferencial** (LLM: revisor, juiz). Computacionais rodam antes do commit; inferenciais, depois da integração.
-- Dimensões de regulação citadas: manutenibilidade, adequação da arquitetura e comportamento.
+**Böckeler, "Harness engineering for coding agent users" (lido por completo):**
+
+*Enquadramento*
+- Para deixar agentes de código trabalharem com menos supervisão, precisamos de confiança no resultado. A barreira de confiança existe porque LLMs não são determinísticos, não conhecem o contexto, não entendem o código de fato e "pensam em tokens".
+- "Agent = Modelo + Harness" é uma definição ampla demais. Para agentes de código, o harness tem duas partes: o **harness interno** (construído por quem fez o agente: prompt de sistema, busca de código, orquestração) e o **harness externo** (construído pelo usuário para o próprio sistema). A autora trata o externo como o que importa para nós.
+- Objetivos do harness externo: aumentar a chance de acerto na primeira tentativa, corrigir o máximo de problemas antes de chegar ao humano, reduzir o trabalho de revisão e gastar menos tokens com retrabalho.
+
+*Modelo de controle*
+- **Guias (feedforward):** antecipam o comportamento e orientam antes da ação. Ex.: princípios, regras, documentos de referência, how-tos, servidores de linguagem, CLIs e scripts, modificações automáticas de código.
+- **Sensores (feedback):** observam depois da ação para o agente se corrigir. Ex.: análise estática, agentes revisores, logs, navegador. Mensagens de linter escritas para o próprio LLM são um tipo "positivo" de injeção de prompt.
+- Só guias: o agente repete os mesmos erros sem saber se as regras funcionaram. Só sensores: o agente corrige, mas não aprende a evitar o erro. Os dois juntos são necessários.
+- **Computacional** (determinístico, rápido, confiável; roda a cada mudança) e **inferencial** (semântico, LLM como juiz; mais caro e menos determinístico; melhor com um modelo forte).
+- Exemplos: convenções em AGENTS.md ou skills são guias inferenciais; uma skill com instruções e script de bootstrap é ambos; modificações com OpenRewrite são guia computacional; testes de arquitetura (ArchUnit) num hook de pré-commit são sensor computacional; instruções de revisão em skill são sensor inferencial.
+
+*Timing: "manter a qualidade à esquerda"*
+- Rápido (antes do commit): linters, testes rápidos, revisor básico. Caro (após a integração): mutation testing, revisão ampla, revisão de arquitetura.
+- Laço de autocorreção com controles rápidos, revisão humana, e o pipeline rodando tudo.
+- Deriva contínua: código morto, qualidade da cobertura, scanners de dependência, fora do ciclo de mudanças.
+- Feedback de execução: latência, taxa de erro, disponibilidade, anomalias de log e amostragem de qualidade de resposta por um juiz de IA.
+
+*Steering loop (direção humana)*
+- O trabalho humano é dirigir o agente ajustando o harness: quando um problema se repete, melhore guias e sensores para que ele seja menos provável ou impossível.
+- A IA também ajuda a criar controles: testes estruturais, regras a partir de padrões observados, linters, guias a partir da arqueologia do código.
+
+*Relação com engenharia de contexto*
+- Engenharia de contexto dá os meios para tornar guias e sensores disponíveis ao agente. O harness de um agente de código é uma forma específica dela.
+
+*Categorias de regulação*
+- O harness age como um governador cibernético que combina antecipação e feedback para levar o código a um estado desejado. Separar as dimensões desse estado torna a linguagem mais precisa.
+- **Manutenibilidade:** a mais madura, porque há ferramental pronto. Sensores computacionais pegam bem código duplicado, complexidade ciclomática, falta de cobertura de testes, deriva de arquitetura e violações de estilo, com custo baixo e resultado determinístico. LLMs cobrem parte do que exige julgamento semântico (código semanticamente duplicado, testes redundantes, soluções de força bruta, superengenharia), mas de forma cara e probabilística, e não em todo commit. Nenhum dos dois pega de forma confiável diagnóstico errado, superengenharia por funcionalidade desnecessária ou instrução mal entendida. Correção fica fora de qualquer sensor se o humano não especificou o que queria.
+- **Adequação da arquitetura (fitness functions):** guias que definem as características da aplicação e sensores que as verificam. Ex.: requisitos de desempenho como guia, testes de desempenho como sensor; padrões de logging como guia, e instruções para o agente avaliar a qualidade dos próprios logs.
+- **Comportamento:** a parte mais difícil ("o elefante na sala"). Guias: especificação funcional, de prompt curto a descrições de vários arquivos. Sensores: a suíte de testes gerada pela IA passar, ter boa cobertura, e às vezes mutation testing, combinados com teste manual. A autora diz que isso ainda depende demais de testes gerados por IA, que não são bons o bastante. O padrão de fixtures aprovadas ajuda em algumas áreas. Ainda há muito a resolver.
+
+*Harnessability*
+- Nem todo código é igualmente "harnessável". Linguagem tipada permite checagem de tipos como sensor. Limites de módulo claros permitem regras de arquitetura. Frameworks escondem detalhes que o agente nem precisa considerar.
+- Projetos novos (greenfield) podem embutir harnessability desde o início, com decisões de tecnologia e arquitetura. Sistemas legados, com muita dívida técnica, enfrentam o problema mais difícil: o harness é mais necessário onde é mais difícil construí-lo.
+
+*Templates de harness*
+- Empresas têm poucas topologias de serviço que cobrem a maioria das necessidades. Um template de harness empacota guias e sensores para a estrutura, convenções e stack de uma topologia.
+- Os mesmos problemas dos templates de serviço: quando instanciados, saem de sincronia com melhorias upstream. Como guias e sensores de harness são não determinísticos e difíceis de testar, o problema pode ser pior.
 
 **Survey arXiv 2606.20683 (resumo):** divide o harness em seis responsabilidades de execução: observação, contexto, controle, ação, estado e verificação/governança. Pergunta se o gargalo está no modelo, no harness ou no acoplamento entre eles.
 
@@ -74,7 +110,7 @@ Lacunas identificadas:
 
 ## 6. Próximos passos sugeridos (para o Gerente)
 
-1. Abrir e ler o artigo de Böckeler / Fowler diretamente, quando o domínio estiver acessível, e atualizar a seção 3.
+1. ~~Abrir e ler o artigo de Böckeler / Fowler diretamente~~ — feito em 16/10, por imagens enviadas pelo usuário.
 2. Ler na íntegra o survey arXiv 2606.20683 e registrar a taxonomia de seis responsabilidades contra o nosso fluxo.
 3. Escrever um critério de avaliação por tipo de post (gancho, legenda, segurança, marca) com exemplos aprovados e reprovados, para o avaliador humano-LLM.
 4. Padronizar o handoff entre funções (formato fixo: feito, pendente, bloqueio, próxima ação).
