@@ -131,3 +131,29 @@ Lacunas identificadas:
 3. Escrever um critério de avaliação por tipo de post (gancho, legenda, segurança, marca) com exemplos aprovados e reprovados, para o avaliador humano-LLM.
 4. Padronizar o handoff entre funções (formato fixo: feito, pendente, bloqueio, próxima ação).
 5. Medir por pacote: número de revisões, tempo de render, tempo até o agendamento.
+
+## 7. Explicação simples e aplicação no dia a dia
+
+**O que é:** um agente de IA é o modelo mais o harness, que é tudo o que cerca o modelo para ele trabalhar bem: instruções, regras, verificações, memória e limites. É como o arreio de um cavalo: a força vem do cavalo, mas o arreio direciona. Engenharia de harness é projetar e manter esse conjunto.
+
+**Dois tipos de controle:**
+- **Antes (guias):** instruções e regras que evitam o erro antes de ele acontecer.
+- **Depois (sensores):** verificações que pegam o erro e permitem corrigir.
+
+**Duas formas de verificar:**
+- **Automática e exata:** regras técnicas, medições, testes. Barata e repetível.
+- **Por julgamento de IA:** mais flexível para o que é subjetivo, mas cara e menos previsível.
+
+**Três dimensões do que queremos controlar:** organização do código (manutenibilidade), características do sistema como desempenho (arquitetura) e se ele faz o que deveria (comportamento). A última é a mais difícil. Nenhum sensor garante que o resultado é o que o humano queria se essa intenção não foi especificada com clareza.
+
+**Papel do humano:** não sai de cena. Ele direciona e, quando o mesmo erro se repete, melhora o harness para que aquele erro deixe de acontecer.
+
+**Aplicação no nosso processo diário:**
+1. **Guias atualizados.** A skill, o checklist e as regras de personagem são guias. Quando uma regra falha, por exemplo a legenda na tela, ela precisa ser escrita no guia, e não só corrigida no post.
+2. **Sensor automático antes de agendar.** Um script simples conferiria duração (16 a 45 s), volume (perto de -14 LUFS), termos proibidos (preço, "R$", "#publi", "vendidos", Luly, Flavy) e presença de legenda na tela. Hoje isso depende de leitura.
+3. **Sensor de julgamento.** A conferência do Atendimento e a revisão do Gerente pegam tom e sentido, o que regra não pega. São caras, então devem vir depois do sensor automático.
+4. **Sensor de resultado.** Visualizações, retenção e salvamentos mostram se os guias funcionam. Hoje a coleta diária está desligada; uma coleta mínima semanal é o que faltaria.
+5. **Ciclo de direção.** Quando um problema se repete (texto fora de tela, post agendado sem vídeo, pacote sem conferência), ajustamos o guia ou o sensor, e não só o post.
+6. **Decisão humana.** Personagens, produtos, exclusões e o que é "bom para a marca" continuam com o usuário. Sensores não substituem isso.
+
+Observação: a segunda imagem sobre o artigo de Fowler é um resumo de um site de terceiros, não o texto original. O conteúdo confere com o artigo de Böckeler, que foi lido por completo.
