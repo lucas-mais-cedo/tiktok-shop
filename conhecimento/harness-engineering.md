@@ -77,6 +77,22 @@ Blogs e agregadores (glossários, SEO, cursos) foram usados só como pista. Núm
 - Empresas têm poucas topologias de serviço que cobrem a maioria das necessidades. Um template de harness empacota guias e sensores para a estrutura, convenções e stack de uma topologia.
 - Os mesmos problemas dos templates de serviço: quando instanciados, saem de sincronia com melhorias upstream. Como guias e sensores de harness são não determinísticos e difíceis de testar, o problema pode ser pior.
 
+*Affordances ambientais (Ned Letcher)*
+- Propriedades estruturais do ambiente que tornam o código legível, navegável e tratável para agentes.
+
+*Lei de Ashby (variedade requerida)*
+- Um regulador precisa de pelo menos tanta variedade quanto o sistema que regula. Um agente baseado em LLM pode produzir quase qualquer coisa; fixar uma topologia restringe esse espaço e torna o harness mais viável. Definir topologias é uma forma de reduzir variedade.
+
+*Papel do humano*
+- Desenvolvedores humanos trazem um harness implícito: habilidade, experiência, responsabilidade pelo commit, alinhamento com a organização e ritmo de passos pequenos.
+- Agentes não têm nada disso: não têm responsabilidade social, nem "nojo" de uma função de 300 linhas, nem intuição de "a gente não faz assim por aqui", nem memória organizacional.
+- Harnesses tentam externalizar essa experiência, mas só até certo ponto. Um bom harness não precisa eliminar a intervenção humana; deve direcioná-la para onde ela mais importa.
+
+*Pontos em aberto (conclusões do autor)*
+- Exemplos do debate: a equipe da OpenAI documentou um harness com arquitetura em camadas, linters e testes estruturais, e uma "coleta de lixo" recorrente que detecta deriva e sugere correções. A conclusão deles: os maiores desafios passaram a ser projetar ambientes, laços de feedback e sistemas de controle. A Stripe usa hooks de pré-push e a ideia de "shift feedback left". Mutation testing e testes estruturais voltaram a ser usados como sensores computacionais. LSPs e inteligência de código como guias computacionais. A Thoughtworks combina sensores computacionais e inferenciais contra deriva de arquitetura.
+- Questões abertas: como manter o harness coerente à medida que cresce, com guias e sensores em sincronia e sem se contradizer; quanto confiar no agente quando instruções e sinais de feedback apontam em direções diferentes; se um sensor que nunca dispara indica alta qualidade ou detecção fraca; como avaliar a cobertura e a qualidade do próprio harness, como se faz com cobertura de código e mutation testing para testes; como configurar, sincronizar e raciocinar sobre controles espalhados pelas etapas de entrega.
+- Conclusão: construir o harness externo é uma prática de engenharia contínua, não uma configuração feita uma vez.
+
 **Survey arXiv 2606.20683 (resumo):** divide o harness em seis responsabilidades de execução: observação, contexto, controle, ação, estado e verificação/governança. Pergunta se o gargalo está no modelo, no harness ou no acoplamento entre eles.
 
 ## 4. Princípios práticos (consolidados)
